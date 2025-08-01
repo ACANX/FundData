@@ -1,123 +1,103 @@
 [
     {
-        "fund_code": "270042",
-        "date": "2025-07-31",
-        "net_asset_value": "6.8821",
-        "daily_growth_rate": "-0.47"
+        "date": "20250731",
+        "nav": "6.8821",
+        "change_rate": "-0.47"
     },
     {
-        "fund_code": "270042",
-        "date": "2025-07-30",
-        "net_asset_value": "6.9144",
-        "daily_growth_rate": "0.06"
+        "date": "20250730",
+        "nav": "6.9144",
+        "change_rate": "0.06"
     },
     {
-        "fund_code": "270042",
-        "date": "2025-07-29",
-        "net_asset_value": "6.9101",
-        "daily_growth_rate": "-0.13"
+        "date": "20250729",
+        "nav": "6.9101",
+        "change_rate": "-0.13"
     },
     {
-        "fund_code": "270042",
-        "date": "2025-07-28",
-        "net_asset_value": "6.9194",
-        "daily_growth_rate": "0.41"
+        "date": "20250728",
+        "nav": "6.9194",
+        "change_rate": "0.41"
     },
     {
-        "fund_code": "270042",
-        "date": "2025-07-25",
-        "net_asset_value": "6.8914",
-        "daily_growth_rate": "0.25"
+        "date": "20250725",
+        "nav": "6.8914",
+        "change_rate": "0.25"
     },
     {
-        "fund_code": "270042",
-        "date": "2025-07-24",
-        "net_asset_value": "6.8742",
-        "daily_growth_rate": "0.21"
+        "date": "20250724",
+        "nav": "6.8742",
+        "change_rate": "0.21"
     },
     {
-        "fund_code": "270042",
-        "date": "2025-07-23",
-        "net_asset_value": "6.8600",
-        "daily_growth_rate": "0.36"
+        "date": "20250723",
+        "nav": "6.8600",
+        "change_rate": "0.36"
     },
     {
-        "fund_code": "270042",
-        "date": "2025-07-22",
-        "net_asset_value": "6.8356",
-        "daily_growth_rate": "-0.56"
+        "date": "20250722",
+        "nav": "6.8356",
+        "change_rate": "-0.56"
     },
     {
-        "fund_code": "270042",
-        "date": "2025-07-21",
-        "net_asset_value": "6.8743",
-        "daily_growth_rate": "0.52"
+        "date": "20250721",
+        "nav": "6.8743",
+        "change_rate": "0.52"
     },
     {
-        "fund_code": "270042",
-        "date": "2025-07-18",
-        "net_asset_value": "6.8390",
-        "daily_growth_rate": "-0.02"
+        "date": "20250718",
+        "nav": "6.8390",
+        "change_rate": "-0.02"
     },
     {
-        "fund_code": "270042",
-        "date": "2025-07-17",
-        "net_asset_value": "6.8404",
-        "daily_growth_rate": "0.63"
+        "date": "20250717",
+        "nav": "6.8404",
+        "change_rate": "0.63"
     },
     {
-        "fund_code": "270042",
-        "date": "2025-07-16",
-        "net_asset_value": "6.7978",
-        "daily_growth_rate": "0.12"
+        "date": "20250716",
+        "nav": "6.7978",
+        "change_rate": "0.12"
     },
     {
-        "fund_code": "270042",
-        "date": "2025-07-15",
-        "net_asset_value": "6.7897",
-        "daily_growth_rate": "0.13"
+        "date": "20250715",
+        "nav": "6.7897",
+        "change_rate": "0.13"
     },
     {
-        "fund_code": "270042",
-        "date": "2025-07-14",
-        "net_asset_value": "6.7811",
-        "daily_growth_rate": "0.32"
+        "date": "20250714",
+        "nav": "6.7811",
+        "change_rate": "0.32"
     },
     {
-        "fund_code": "270042",
-        "date": "2025-07-11",
-        "net_asset_value": "6.7594",
-        "daily_growth_rate": "-0.25"
+        "date": "20250711",
+        "nav": "6.7594",
+        "change_rate": "-0.25"
     },
     {
-        "fund_code": "270042",
-        "date": "2025-07-10",
-        "net_asset_value": "6.7765",
-        "daily_growth_rate": "-0.19"
+        "date": "20250710",
+        "nav": "6.7765",
+        "change_rate": "-0.19"
     },
     {
-        "fund_code": "270042",
-        "date": "2025-07-09",
-        "net_asset_value": "6.7892",
-        "daily_growth_rate": "0.70"
+        "date": "20250709",
+        "nav": "6.7892",
+        "change_rate": "0.70"
     },
     {
-        "fund_code": "270042",
-        "date": "2025-07-08",
-        "net_asset_value": "6.7417",
-        "daily_growth_rate": "0.11"
+        "date": "20250708",
+        "nav": "6.7417",
+        "change_rate": "0.11"
     },
     {
-        "fund_code": "270042",
-        "date": "2025-07-07",
-        "net_asset_value": "6.7342",
-        "daily_growth_rate": "-0.83"
+        "date": "20250707",
+        "nav": "6.7342",
+        "change_rate": "-0.83"
     },
     {
-        "fund_code": "270042",
-        "date": "2025-07-04",
-        "net_asset_value": "6.7905",
-        "daily_growth_rate": "0.01"
+        "date": "20250704",
+        "nav": "6.7905",
+        "change_rate": "0.01"
     },
     {
         "date": "20250703",
@@ -718,6 +698,126 @@
         "date": "20250102",
         "nav": "6.3233",
         "change_rate": "-0.23"
+    },
+    {
+        "fund_code": "270042",
+        "date": "2025-07-31",
+        "net_asset_value": "6.8821",
+        "daily_growth_rate": "-0.47"
+    },
+    {
+        "fund_code": "270042",
+        "date": "2025-07-30",
+        "net_asset_value": "6.9144",
+        "daily_growth_rate": "0.06"
+    },
+    {
+        "fund_code": "270042",
+        "date": "2025-07-29",
+        "net_asset_value": "6.9101",
+        "daily_growth_rate": "-0.13"
+    },
+    {
+        "fund_code": "270042",
+        "date": "2025-07-28",
+        "net_asset_value": "6.9194",
+        "daily_growth_rate": "0.41"
+    },
+    {
+        "fund_code": "270042",
+        "date": "2025-07-25",
+        "net_asset_value": "6.8914",
+        "daily_growth_rate": "0.25"
+    },
+    {
+        "fund_code": "270042",
+        "date": "2025-07-24",
+        "net_asset_value": "6.8742",
+        "daily_growth_rate": "0.21"
+    },
+    {
+        "fund_code": "270042",
+        "date": "2025-07-23",
+        "net_asset_value": "6.8600",
+        "daily_growth_rate": "0.36"
+    },
+    {
+        "fund_code": "270042",
+        "date": "2025-07-22",
+        "net_asset_value": "6.8356",
+        "daily_growth_rate": "-0.56"
+    },
+    {
+        "fund_code": "270042",
+        "date": "2025-07-21",
+        "net_asset_value": "6.8743",
+        "daily_growth_rate": "0.52"
+    },
+    {
+        "fund_code": "270042",
+        "date": "2025-07-18",
+        "net_asset_value": "6.8390",
+        "daily_growth_rate": "-0.02"
+    },
+    {
+        "fund_code": "270042",
+        "date": "2025-07-17",
+        "net_asset_value": "6.8404",
+        "daily_growth_rate": "0.63"
+    },
+    {
+        "fund_code": "270042",
+        "date": "2025-07-16",
+        "net_asset_value": "6.7978",
+        "daily_growth_rate": "0.12"
+    },
+    {
+        "fund_code": "270042",
+        "date": "2025-07-15",
+        "net_asset_value": "6.7897",
+        "daily_growth_rate": "0.13"
+    },
+    {
+        "fund_code": "270042",
+        "date": "2025-07-14",
+        "net_asset_value": "6.7811",
+        "daily_growth_rate": "0.32"
+    },
+    {
+        "fund_code": "270042",
+        "date": "2025-07-11",
+        "net_asset_value": "6.7594",
+        "daily_growth_rate": "-0.25"
+    },
+    {
+        "fund_code": "270042",
+        "date": "2025-07-10",
+        "net_asset_value": "6.7765",
+        "daily_growth_rate": "-0.19"
+    },
+    {
+        "fund_code": "270042",
+        "date": "2025-07-09",
+        "net_asset_value": "6.7892",
+        "daily_growth_rate": "0.70"
+    },
+    {
+        "fund_code": "270042",
+        "date": "2025-07-08",
+        "net_asset_value": "6.7417",
+        "daily_growth_rate": "0.11"
+    },
+    {
+        "fund_code": "270042",
+        "date": "2025-07-07",
+        "net_asset_value": "6.7342",
+        "daily_growth_rate": "-0.83"
+    },
+    {
+        "fund_code": "270042",
+        "date": "2025-07-04",
+        "net_asset_value": "6.7905",
+        "daily_growth_rate": "0.01"
     },
     {
         "date": "20241231",

@@ -1,123 +1,103 @@
 [
     {
-        "fund_code": "013172",
-        "date": "2025-08-01",
-        "net_asset_value": "0.7940",
-        "daily_growth_rate": "-1.29"
+        "date": "20250801",
+        "nav": "0.7940",
+        "change_rate": "-1.29"
     },
     {
-        "fund_code": "013172",
-        "date": "2025-07-31",
-        "net_asset_value": "0.8044",
-        "daily_growth_rate": "0.54"
+        "date": "20250731",
+        "nav": "0.8044",
+        "change_rate": "0.54"
     },
     {
-        "fund_code": "013172",
-        "date": "2025-07-30",
-        "net_asset_value": "0.8001",
-        "daily_growth_rate": "-1.37"
+        "date": "20250730",
+        "nav": "0.8001",
+        "change_rate": "-1.37"
     },
     {
-        "fund_code": "013172",
-        "date": "2025-07-29",
-        "net_asset_value": "0.8112",
-        "daily_growth_rate": "-0.43"
+        "date": "20250729",
+        "nav": "0.8112",
+        "change_rate": "-0.43"
     },
     {
-        "fund_code": "013172",
-        "date": "2025-07-28",
-        "net_asset_value": "0.8147",
-        "daily_growth_rate": "-0.12"
+        "date": "20250728",
+        "nav": "0.8147",
+        "change_rate": "-0.12"
     },
     {
-        "fund_code": "013172",
-        "date": "2025-07-25",
-        "net_asset_value": "0.8157",
-        "daily_growth_rate": "-1.83"
+        "date": "20250725",
+        "nav": "0.8157",
+        "change_rate": "-1.83"
     },
     {
-        "fund_code": "013172",
-        "date": "2025-07-24",
-        "net_asset_value": "0.8309",
-        "daily_growth_rate": "-0.37"
+        "date": "20250724",
+        "nav": "0.8309",
+        "change_rate": "-0.37"
     },
     {
-        "fund_code": "013172",
-        "date": "2025-07-23",
-        "net_asset_value": "0.8340",
-        "daily_growth_rate": "3.37"
+        "date": "20250723",
+        "nav": "0.8340",
+        "change_rate": "3.37"
     },
     {
-        "fund_code": "013172",
-        "date": "2025-07-22",
-        "net_asset_value": "0.8068",
-        "daily_growth_rate": "-0.36"
+        "date": "20250722",
+        "nav": "0.8068",
+        "change_rate": "-0.36"
     },
     {
-        "fund_code": "013172",
-        "date": "2025-07-21",
-        "net_asset_value": "0.8097",
-        "daily_growth_rate": "0.90"
+        "date": "20250721",
+        "nav": "0.8097",
+        "change_rate": "0.90"
     },
     {
-        "fund_code": "013172",
-        "date": "2025-07-18",
-        "net_asset_value": "0.8025",
-        "daily_growth_rate": "2.15"
+        "date": "20250718",
+        "nav": "0.8025",
+        "change_rate": "2.15"
     },
     {
-        "fund_code": "013172",
-        "date": "2025-07-17",
-        "net_asset_value": "0.7856",
-        "daily_growth_rate": "0.10"
+        "date": "20250717",
+        "nav": "0.7856",
+        "change_rate": "0.10"
     },
     {
-        "fund_code": "013172",
-        "date": "2025-07-16",
-        "net_asset_value": "0.7848",
-        "daily_growth_rate": "-0.11"
+        "date": "20250716",
+        "nav": "0.7848",
+        "change_rate": "-0.11"
     },
     {
-        "fund_code": "013172",
-        "date": "2025-07-15",
-        "net_asset_value": "0.7857",
-        "daily_growth_rate": "3.89"
+        "date": "20250715",
+        "nav": "0.7857",
+        "change_rate": "3.89"
     },
     {
-        "fund_code": "013172",
-        "date": "2025-07-14",
-        "net_asset_value": "0.7563",
-        "daily_growth_rate": "0.79"
+        "date": "20250714",
+        "nav": "0.7563",
+        "change_rate": "0.79"
     },
     {
-        "fund_code": "013172",
-        "date": "2025-07-11",
-        "net_asset_value": "0.7504",
-        "daily_growth_rate": "0.12"
+        "date": "20250711",
+        "nav": "0.7504",
+        "change_rate": "0.12"
     },
     {
-        "fund_code": "013172",
-        "date": "2025-07-10",
-        "net_asset_value": "0.7495",
-        "daily_growth_rate": "-0.41"
+        "date": "20250710",
+        "nav": "0.7495",
+        "change_rate": "-0.41"
     },
     {
-        "fund_code": "013172",
-        "date": "2025-07-09",
-        "net_asset_value": "0.7526",
-        "daily_growth_rate": "-1.74"
+        "date": "20250709",
+        "nav": "0.7526",
+        "change_rate": "-1.74"
     },
     {
-        "fund_code": "013172",
-        "date": "2025-07-08",
-        "net_asset_value": "0.7659",
-        "daily_growth_rate": "2.19"
+        "date": "20250708",
+        "nav": "0.7659",
+        "change_rate": "2.19"
     },
     {
-        "fund_code": "013172",
-        "date": "2025-07-07",
-        "net_asset_value": "0.7495",
-        "daily_growth_rate": "-0.03"
+        "date": "20250707",
+        "nav": "0.7495",
+        "change_rate": "-0.03"
     },
     {
         "date": "20250704",
@@ -723,6 +703,126 @@
         "date": "20250102",
         "nav": "0.6392",
         "change_rate": "-2.07"
+    },
+    {
+        "fund_code": "013172",
+        "date": "2025-08-01",
+        "net_asset_value": "0.7940",
+        "daily_growth_rate": "-1.29"
+    },
+    {
+        "fund_code": "013172",
+        "date": "2025-07-31",
+        "net_asset_value": "0.8044",
+        "daily_growth_rate": "0.54"
+    },
+    {
+        "fund_code": "013172",
+        "date": "2025-07-30",
+        "net_asset_value": "0.8001",
+        "daily_growth_rate": "-1.37"
+    },
+    {
+        "fund_code": "013172",
+        "date": "2025-07-29",
+        "net_asset_value": "0.8112",
+        "daily_growth_rate": "-0.43"
+    },
+    {
+        "fund_code": "013172",
+        "date": "2025-07-28",
+        "net_asset_value": "0.8147",
+        "daily_growth_rate": "-0.12"
+    },
+    {
+        "fund_code": "013172",
+        "date": "2025-07-25",
+        "net_asset_value": "0.8157",
+        "daily_growth_rate": "-1.83"
+    },
+    {
+        "fund_code": "013172",
+        "date": "2025-07-24",
+        "net_asset_value": "0.8309",
+        "daily_growth_rate": "-0.37"
+    },
+    {
+        "fund_code": "013172",
+        "date": "2025-07-23",
+        "net_asset_value": "0.8340",
+        "daily_growth_rate": "3.37"
+    },
+    {
+        "fund_code": "013172",
+        "date": "2025-07-22",
+        "net_asset_value": "0.8068",
+        "daily_growth_rate": "-0.36"
+    },
+    {
+        "fund_code": "013172",
+        "date": "2025-07-21",
+        "net_asset_value": "0.8097",
+        "daily_growth_rate": "0.90"
+    },
+    {
+        "fund_code": "013172",
+        "date": "2025-07-18",
+        "net_asset_value": "0.8025",
+        "daily_growth_rate": "2.15"
+    },
+    {
+        "fund_code": "013172",
+        "date": "2025-07-17",
+        "net_asset_value": "0.7856",
+        "daily_growth_rate": "0.10"
+    },
+    {
+        "fund_code": "013172",
+        "date": "2025-07-16",
+        "net_asset_value": "0.7848",
+        "daily_growth_rate": "-0.11"
+    },
+    {
+        "fund_code": "013172",
+        "date": "2025-07-15",
+        "net_asset_value": "0.7857",
+        "daily_growth_rate": "3.89"
+    },
+    {
+        "fund_code": "013172",
+        "date": "2025-07-14",
+        "net_asset_value": "0.7563",
+        "daily_growth_rate": "0.79"
+    },
+    {
+        "fund_code": "013172",
+        "date": "2025-07-11",
+        "net_asset_value": "0.7504",
+        "daily_growth_rate": "0.12"
+    },
+    {
+        "fund_code": "013172",
+        "date": "2025-07-10",
+        "net_asset_value": "0.7495",
+        "daily_growth_rate": "-0.41"
+    },
+    {
+        "fund_code": "013172",
+        "date": "2025-07-09",
+        "net_asset_value": "0.7526",
+        "daily_growth_rate": "-1.74"
+    },
+    {
+        "fund_code": "013172",
+        "date": "2025-07-08",
+        "net_asset_value": "0.7659",
+        "daily_growth_rate": "2.19"
+    },
+    {
+        "fund_code": "013172",
+        "date": "2025-07-07",
+        "net_asset_value": "0.7495",
+        "daily_growth_rate": "-0.03"
     },
     {
         "date": "20241231",
