@@ -4,7 +4,7 @@ name: FundDataWorkflow
 on:
   workflow_dispatch: # 允许手动触发
   schedule:
-    - cron: '1/5 * * * *'
+    - cron: '40 23 * * *'
 
 jobs:
   build:
