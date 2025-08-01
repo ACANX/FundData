@@ -90,28 +90,23 @@ class FundData(object):
                 for singlePage in range(2, pageTotal + 1):
                     tempurl = url + "&fundCode={}&pageIndex={}&pageSize=20".format(self.code, singlePage)
                     print(f"基金 {self.code} 正在处理第 {singlePage}/{pageTotal} 页数据")
-                    
                     response = requests.get(tempurl, headers=header)
                     response.raise_for_status()
                     jsonData = response.content.decode()
-                    
                     dictData = json.loads(jsonData[41:-1])
                     listDateData = dictData.get("Data", {"LSJZList": []}).get("LSJZList")
-                    
                     for item in listDateData:
                         npvDate = item.get("FSRQ").replace("-", "")
                         npv = item.get("DWJZ")
                         tempRate = item.get("JZZZL")
                         rate = "0.00" if tempRate == "" else tempRate
-                        
                         dataList.append({
                             "date": npvDate,
                             "nav": npv,
                             "change_rate": rate
                         })
-                    
-                    sleep(1.5)  # 降低请求频率，避免被封
-
+                    # 降低请求频率    
+                    sleep(1.5)  
             print(f"基金 {self.code} 成功获取 {len(dataList)} 条净值数据")
             return dataList
 
@@ -134,31 +129,48 @@ def collect_fund_data(fund_codes):
     for code in fund_codes:
         print(f"\n{'='*50}")
         print(f"开始处理基金 {code}")
-        
         # 创建基金数据对象
         fund = FundData(code)
-        
         # 获取净值数据
         data = fund.getNPV()
-        
         # 保存数据到JSON文件
         if data:
             fund.save_to_json(data)
-        
         # 每个基金处理完后暂停一下
         sleep(1)
 
 
+def load_fund_codes_from_file():
+    """
+    从JSON文件加载基金代码列表
+    :return: 基金代码列表
+    """
+    try:
+        # 获取当前脚本所在目录
+        current_dir = os.path.dirname(os.path.abspath(__file__))
+        # 构建Meta文件路径
+        meta_file = os.path.join(current_dir, "..", "Fund", "Meta", "CnFundCode.json")
+        # 检查文件是否存在
+        if not os.path.exists(meta_file):
+            print(f"错误: 基金代码配置文件不存在 - {meta_file}")
+            return []
+        # 读取JSON文件
+        with open(meta_file, 'r', encoding='utf-8') as f:
+            meta_data = json.load(f)
+        # 获取基金代码列表
+        fund_codes = meta_data.get("list", [])
+        print(f"从配置文件加载了 {len(fund_codes)} 个基金代码")
+        return fund_codes
+    except json.JSONDecodeError as e:
+        print(f"JSON解析错误: {str(e)}")
+        return []
+    except Exception as e:
+        print(f"加载基金代码时出错: {str(e)}")
+        return []
+
 if __name__ == '__main__':
-    # 配置要采集的基金代码列表
-    fund_codes = [
-        '017516', 
-        '270042',  
-        '000628',
-        '013172'
-    ]
-    
+    # 从配置文件加载基金代码列表
+    fund_codes = load_fund_codes_from_file()    
     # 开始采集数据
     collect_fund_data(fund_codes)
-    
     print("\n所有基金数据处理完成")
