@@ -12,6 +12,27 @@ import sys
 class FundData(object):
     def __init__(self, code):
         self.code = code
+        self.data_file_path = None
+    
+    def get_data_file_path(self):
+        """获取数据文件路径"""
+        if not self.data_file_path:
+            current_dir = os.path.dirname(os.path.abspath(__file__))
+            save_dir = os.path.join(current_dir, "..", "Fund", "CN", "Data")
+            os.makedirs(save_dir, exist_ok=True)
+            self.data_file_path = os.path.join(save_dir, f"{self.code}.json")
+        return self.data_file_path
+    
+    def load_existing_data(self):
+        """加载现有数据文件"""
+        data_file = self.get_data_file_path()
+        if os.path.exists(data_file):
+            try:
+                with open(data_file, 'r', encoding='utf-8') as f:
+                    return json.load(f)
+            except Exception as e:
+                print(f"加载基金 {self.code} 现有数据时出错: {str(e)}")
+        return []
     
     def save_to_json(self, data):
         """
@@ -20,30 +41,62 @@ class FundData(object):
         :return: 文件保存路径
         """
         try:
-            # 创建目录
-            current_dir = os.path.dirname(os.path.abspath(__file__))
-            save_dir = os.path.join(current_dir, "..", "Fund", "CN", "Data")
-            os.makedirs(save_dir, exist_ok=True)
-            
-            # 构建文件路径
-            json_file = os.path.join(save_dir, f"{self.code}.json")
-            
+            data_file = self.get_data_file_path()
             # 保存数据
-            with open(json_file, 'w', encoding='utf-8') as f:
+            with open(data_file, 'w', encoding='utf-8') as f:
                 json.dump(data, f, ensure_ascii=False, indent=4)
-                print(f"基金 {self.code} 数据已保存到: {json_file}")
+                print(f"基金 {self.code} 数据已保存到: {data_file}")
             
-            return json_file
+            return data_file
         except Exception as e:
             print(f"保存基金 {self.code} 数据时出错: {str(e)}")
             return None
+    
+    def get_first_page_data(self):
+        """获取第一页数据（最新数据）"""
+        try:
+            page = 1
+            url = "http://api.fund.eastmoney.com/f10/lsjz?callback=jQuery18304038998523093684_1586160530315"
+            tempurl = url + "&fundCode={}&pageIndex={}&pageSize=20".format(self.code, page)
+            header = {"Referer": "http://fundf10.eastmoney.com/jjjz_{}.html".format(self.code)}
+            response = requests.get(tempurl, headers=header)
+            response.raise_for_status()
+            jsonData = response.content.decode()
+            # 解析JSON数据
+            dictData = json.loads(jsonData[41:-1])
+            listDateData = dictData.get("Data", {"LSJZList": []}).get("LSJZList")
+            dataList = []
+            for item in listDateData:
+                # 获取日期并去除横线 (yyyy-MM-dd -> yyyyMMdd)
+                rawDate = item.get("FSRQ", "")
+                npvDate = rawDate.replace("-", "") if rawDate else ""
+                npv = item.get("DWJZ")
+                tempRate = item.get("JZZZL")
+                rate = "0.00" if tempRate == "" else tempRate
+                dataList.append({
+                    "date": npvDate,
+                    "nav": npv,
+                    "change_rate": rate
+                })
+            
+            return dataList
+        except Exception as e:
+            print(f"基金 {self.code} 获取第一页数据失败: {str(e)}")
+            return []
 
-    def getNPV(self):
+    def getNPV(self, incremental=False):
         """
-        查询全部历史净值
+        查询净值数据
+        :param incremental: 是否增量采集（只获取最新数据）
         :return: 净值数据列表
         """
         try:
+            if incremental:
+                print(f"基金 {self.code} 执行增量采集")
+                # 只获取第一页数据（最新数据）
+                return self.get_first_page_data()
+            
+            print(f"基金 {self.code} 执行全量采集")
             page = 1
             url = "http://api.fund.eastmoney.com/f10/lsjz?callback=jQuery18304038998523093684_1586160530315"
             tempurl = url + "&fundCode={}&pageIndex={}&pageSize=20".format(self.code, page)
@@ -51,7 +104,7 @@ class FundData(object):
 
             # 发送初始请求获取总页数
             response = requests.get(tempurl, headers=header)
-            response.raise_for_status()  # 检查HTTP错误
+            response.raise_for_status()
             jsonData = response.content.decode()
             
             # 解析JSON数据
@@ -73,16 +126,16 @@ class FundData(object):
             # 处理第一页数据
             listDateData = dictData.get("Data", {"LSJZList": []}).get("LSJZList")
             for item in listDateData:
-                npvDate = item.get("FSRQ")
+                # 获取日期并去除横线 (yyyy-MM-dd -> yyyyMMdd)
+                rawDate = item.get("FSRQ", "")
+                npvDate = rawDate.replace("-", "") if rawDate else ""
                 npv = item.get("DWJZ")
                 tempRate = item.get("JZZZL")
                 rate = "0.00" if tempRate == "" else tempRate
-                
                 dataList.append({
-                    "fund_code": self.code,
                     "date": npvDate,
-                    "net_asset_value": npv,
-                    "daily_growth_rate": rate
+                    "nav": npv,
+                    "change_rate": rate
                 })
 
             # 处理剩余页数据（如果有）
@@ -96,7 +149,9 @@ class FundData(object):
                     dictData = json.loads(jsonData[41:-1])
                     listDateData = dictData.get("Data", {"LSJZList": []}).get("LSJZList")
                     for item in listDateData:
-                        npvDate = item.get("FSRQ").replace("-", "")
+                        # 获取日期并去除横线 (yyyy-MM-dd -> yyyyMMdd)
+                        rawDate = item.get("FSRQ", "")
+                        npvDate = rawDate.replace("-", "") if rawDate else ""
                         npv = item.get("DWJZ")
                         tempRate = item.get("JZZZL")
                         rate = "0.00" if tempRate == "" else tempRate
@@ -105,8 +160,7 @@ class FundData(object):
                             "nav": npv,
                             "change_rate": rate
                         })
-                    # 降低请求频率    
-                    sleep(1.5)  
+                    sleep(1.5)
             print(f"基金 {self.code} 成功获取 {len(dataList)} 条净值数据")
             return dataList
 
@@ -121,6 +175,23 @@ class FundData(object):
             return []
 
 
+def merge_data(existing_data, new_data):
+    """
+    合并新旧数据，确保不重复
+    :param existing_data: 现有数据
+    :param new_data: 新采集的数据
+    :return: 合并后的数据
+    """
+    # 创建日期映射的字典
+    date_map = {item['date']: item for item in existing_data}
+    # 添加新数据，覆盖旧数据（如果日期相同）
+    for item in new_data:
+        date_map[item['date']] = item
+    # 转换为列表并按日期倒序排序
+    merged_data = list(date_map.values())
+    merged_data.sort(key=lambda x: x['date'], reverse=True)
+    return merged_data
+
 def collect_fund_data(fund_codes):
     """
     收集多个基金的数据并保存
@@ -131,14 +202,25 @@ def collect_fund_data(fund_codes):
         print(f"开始处理基金 {code}")
         # 创建基金数据对象
         fund = FundData(code)
-        # 获取净值数据
-        data = fund.getNPV()
-        # 保存数据到JSON文件
-        if data:
-            fund.save_to_json(data)
+        # 检查数据文件是否存在
+        data_file = fund.get_data_file_path()
+        existing_data = fund.load_existing_data()
+        # 决定采集策略
+        if existing_data and len(existing_data) >= 20:
+            # 增量采集 - 只获取最新数据
+            new_data = fund.getNPV(incremental=True)
+            # 合并新旧数据
+            merged_data = merge_data(existing_data, new_data)
+            print(f"基金 {code} 合并数据: 原有 {len(existing_data)} 条 + 新增 {len(new_data)} 条 = 合并后 {len(merged_data)} 条")
+            # 保存合并后的数据
+            fund.save_to_json(merged_data)
+        else:
+            # 全量采集
+            data = fund.getNPV()
+            if data:
+                fund.save_to_json(data)
         # 每个基金处理完后暂停一下
         sleep(1)
-
 
 def load_fund_codes_from_file():
     """
@@ -147,7 +229,7 @@ def load_fund_codes_from_file():
     """
     try:
         # 获取当前脚本所在目录
-        current_dir = os.path.dirname(os.path.abspath(__file__))
+        current_dir = os.path.dirname(os.path.abspath(__file__))        
         # 构建Meta文件路径
         meta_file = os.path.join(current_dir, "..", "Fund", "Meta", "CnFundCode.json")
         # 检查文件是否存在
@@ -167,6 +249,7 @@ def load_fund_codes_from_file():
     except Exception as e:
         print(f"加载基金代码时出错: {str(e)}")
         return []
+
 
 if __name__ == '__main__':
     # 从配置文件加载基金代码列表
