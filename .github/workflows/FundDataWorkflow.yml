@@ -16,7 +16,7 @@ jobs:
       - name: CheckoutAutoCommitBranch
         uses: actions/checkout@v4
         with:
-          ref: auto-commit  # 强制检出auto-commit分支
+          ref: auto  # 强制检出auto分支
 
       - name: SetUpPython3.13
         uses: actions/setup-python@v5
