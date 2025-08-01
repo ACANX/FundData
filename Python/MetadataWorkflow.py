@@ -37,7 +37,7 @@ def fetch_fund_metadata(fund_code):
 # 解析基金数据
 def parse_fund_data(html, fund_code):
     soup = BeautifulSoup(html, 'html.parser')
-    result = {"基金代码": fund_code}
+    result = {"code": fund_code}
     
     # 解析基本信息表格
     info_tables = soup.select('div.info')
