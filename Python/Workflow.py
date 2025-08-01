@@ -18,7 +18,7 @@ class FundData(object):
         """获取数据文件路径"""
         if not self.data_file_path:
             current_dir = os.path.dirname(os.path.abspath(__file__))
-            save_dir = os.path.join(current_dir, "..", "Fund", "CN", "Data")
+            save_dir = os.path.join(current_dir, "..", "Fund", "Data", "CN")
             os.makedirs(save_dir, exist_ok=True)
             self.data_file_path = os.path.join(save_dir, f"{self.code}.json")
         return self.data_file_path
