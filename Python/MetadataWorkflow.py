@@ -4,13 +4,20 @@ import time
 import requests
 from bs4 import BeautifulSoup
 
-# 读取基金代码列表
+# 修正：正确读取基金代码列表
 def load_fund_codes():
     base_dir = os.path.dirname(os.path.abspath(__file__))
     code_path = os.path.join(base_dir, "../Fund/Meta/CnFundCode.json")
     
     with open(code_path, 'r', encoding='utf-8') as f:
-        return json.load(f)
+        data = json.load(f)
+        # 检查数据结构并提取基金代码列表
+        if isinstance(data, list):
+            return data  # 如果直接是列表
+        elif 'list' in data and isinstance(data['list'], list):
+            return data['list']  # 如果包含在'list'键下
+        else:
+            raise ValueError("CnFundCode.json 文件格式不符合预期，无法提取基金代码列表")
 
 # 采集基金元数据
 def fetch_fund_metadata(fund_code):
