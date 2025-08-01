@@ -99,16 +99,15 @@ class FundData(object):
                     listDateData = dictData.get("Data", {"LSJZList": []}).get("LSJZList")
                     
                     for item in listDateData:
-                        npvDate = item.get("FSRQ")
+                        npvDate = item.get("FSRQ").replace("-", "")
                         npv = item.get("DWJZ")
                         tempRate = item.get("JZZZL")
                         rate = "0.00" if tempRate == "" else tempRate
                         
                         dataList.append({
-                            "fund_code": self.code,
                             "date": npvDate,
-                            "net_asset_value": npv,
-                            "daily_growth_rate": rate
+                            "nav": npv,
+                            "change_rate": rate
                         })
                     
                     sleep(1.5)  # 降低请求频率，避免被封
