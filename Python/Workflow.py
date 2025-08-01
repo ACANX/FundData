@@ -208,6 +208,7 @@ def collect_fund_data(fund_codes):
         # 决定采集策略
         if existing_data and len(existing_data) >= 20:
             # 增量采集 - 只获取最新数据
+            print(f"基金 {code} 采用增量采集模式")
             new_data = fund.getNPV(incremental=True)
             # 合并新旧数据
             merged_data = merge_data(existing_data, new_data)
@@ -216,6 +217,7 @@ def collect_fund_data(fund_codes):
             fund.save_to_json(merged_data)
         else:
             # 全量采集
+            print(f"基金 {code} 采用全量采集模式")
             data = fund.getNPV()
             if data:
                 fund.save_to_json(data)
