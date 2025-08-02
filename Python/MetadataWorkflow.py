@@ -259,8 +259,8 @@ def post_process_data(data):
     """后处理：标准化字段名、格式化数据"""
     # 字段名标准化
     field_mapping = {
-        "基金全称": "fund_name",
         "基金简称": "name",
+        "基金全称": "fund_name",
         "基金类型": "fund_type",
         "发行日期": "issue_date",
         "成立日期": "establish_date",
