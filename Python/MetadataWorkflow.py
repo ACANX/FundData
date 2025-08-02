@@ -110,7 +110,7 @@ def process_key_value(key, value_cell, result):
         # 同时存储原始值用于后续处理
         result["资产规模原始值"] = text_value
     
-    # 处理基金管理人（包括名字、链接）
+    # 处理基金管理人（公司信息）
     elif key == "基金管理人":
         a_tag = value_cell.find('a')
         if a_tag:
@@ -132,7 +132,7 @@ def process_key_value(key, value_cell, result):
         else:
             result["基金托管人"] = {"name": text_value, "link": ""}
     
-    # 处理基金经理人（包括名字、链接）
+    # 处理基金经理人（经理信息）
     elif key == "基金经理人":
         a_tag = value_cell.find('a')
         if a_tag:
@@ -194,9 +194,12 @@ def format_url(url):
     return url
 
 def extract_date(date_str):
-    """从字符串中提取日期（格式化为8位数字）"""
+    """
+    从字符串中提取日期并转换为整数
+    格式：YYYYMMDD
+    """
     if not date_str:
-        return ""
+        return 0
     
     # 尝试匹配常见日期格式：YYYY年MM月DD日
     match = re.search(r'(\d{4})[年\-](\d{1,2})[月\-](\d{1,2})', date_str)
@@ -204,14 +207,17 @@ def extract_date(date_str):
         year = match.group(1)
         month = match.group(2).zfill(2)
         day = match.group(3).zfill(2)
-        return f"{year}{month}{day}"
+        try:
+            return int(f"{year}{month}{day}")
+        except ValueError:
+            return 0
     
-    return ""
+    return 0
 
 def extract_size_info(size_str):
     """从规模字符串中提取数值和日期"""
     if not size_str:
-        return None, None
+        return None, 0
     
     # 提取规模数值
     size_value = ""
@@ -233,13 +239,19 @@ def extract_dividend_info(dividend_str):
     amount = 0.0
     amount_match = re.search(r'每份累计([\d.]+)元', dividend_str)
     if amount_match:
-        amount = float(amount_match.group(1))
+        try:
+            amount = float(amount_match.group(1))
+        except ValueError:
+            amount = 0.0
     
     # 提取分红次数
     times = 0
     times_match = re.search(r'(\d+)次', dividend_str)
     if times_match:
-        times = int(times_match.group(1))
+        try:
+            times = int(times_match.group(1))
+        except ValueError:
+            times = 0
     
     return amount, times
 
@@ -252,9 +264,9 @@ def post_process_data(data):
         "基金类型": "fund_type",
         "发行日期": "issue_date",
         "成立日期": "establish_date",
-        "基金管理人": "fund_manager",
+        "基金管理人": "fund_company",
         "基金托管人": "fund_custodian",
-        "基金经理人": "fund_manager_person",
+        "基金经理人": "fund_manager",
         "成立来分红": "dividend_info",
         "管理费率": "management_fee_rate",
         "托管费率": "custodian_fee_rate",
@@ -277,9 +289,9 @@ def post_process_data(data):
         if old_key in data:
             data[new_key] = data.pop(old_key)
     
-    # 处理日期字段
+    # 处理日期字段 - 转换为整数
     for date_field in ["issue_date", "establish_date"]:
-        if date_field in data:
+        if date_field in data and isinstance(data[date_field], str):
             data[date_field] = extract_date(data[date_field])
     
     # 处理资产规模
@@ -287,7 +299,7 @@ def post_process_data(data):
         size_value, size_date = extract_size_info(data["资产规模原始值"])
         if size_value:
             data["assets_size"] = size_value
-            data["assets_size_date"] = size_date
+            data["assets_size_date"] = size_date  # 已经是整数
         del data["资产规模原始值"]
     
     # 处理份额规模（如果存在）
@@ -295,7 +307,7 @@ def post_process_data(data):
         size_value, size_date = extract_size_info(data["份额规模"])
         if size_value:
             data["shares_size"] = size_value
-            data["shares_size_date"] = size_date
+            data["shares_size_date"] = size_date  # 已经是整数
         del data["份额规模"]
     
     # 处理分红信息
