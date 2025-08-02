@@ -3,8 +3,8 @@
 | 原始字段名 | 处理后字段名 | 类型 | 说明 |
 |------------|--------------|------|------|
 | 基金代码 | code | string | 基金唯一代码 |
-| 基金全称 | fund_name | string | 基金法定全名 |
 | 基金简称 | name | string | 基金常用简称 |
+| 基金全称 | fund_name | string | 基金法定全名 |
 | 基金类型 | fund_type | string | 基金类型分类（如股票型、混合型等） |
 | 发行日期 | issue_date | int | 基金发行日期（格式：YYYYMMDD） |
 | 成立日期 | establish_date | int | 基金成立日期（格式：YYYYMMDD） |
@@ -37,9 +37,9 @@
 ### 字段说明
 
 1. **对象类型字段**：
-   - `fund_manager`：包含`name`（名称）和`link`（链接）
+   - `fund_company`：包含`name`（名称）和`link`（链接）
    - `fund_custodian`：包含`name`（名称）和`link`（链接）
-   - `fund_manager_person`：包含`name`（名称）和`link`（链接）
+   - `fund_manager`：包含`name`（名称）和`link`（链接）
 
 2. **日期格式**：
    - 所有日期字段均转换为8位数字格式：YYYYMMDD
