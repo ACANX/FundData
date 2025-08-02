@@ -68,15 +68,23 @@ class FundData(object):
             dataList = []
             for item in listDateData:
                 # 获取日期并去除横线 (yyyy-MM-dd -> yyyyMMdd)
-                rawDate = item.get("FSRQ", "")
-                npvDate = rawDate.replace("-", "") if rawDate else ""
-                npv = item.get("DWJZ")
+                rawDate = item.get("FSRQ", "") 
+                npvDate = convert_date_to_int(rawDate)   # 日期
+                npv = item.get("DWJZ")   # 单位净值
+                cnpv = item.get("LJJZ")  # 累计净值
                 tempRate = item.get("JZZZL")
                 rate = "0.00" if tempRate == "" else tempRate
+                sgzt = item.get("SGZT")  # 申购状态
+                shzt = item.get("SHZT")  # 赎回状态
+                fhsp = item.get("FHSP")  # 分红送配
                 dataList.append({
                     "date": npvDate,
                     "nav": npv,
-                    "change_rate": rate
+                    "cnav": cnpv,
+                    "rate_change": rate,
+                    "status_subscription": sgzt,
+                    "status_redemption": shzt,
+                    "dividend_distribution": fhsp,
                 })
             
             return dataList
@@ -128,14 +136,22 @@ class FundData(object):
             for item in listDateData:
                 # 获取日期并去除横线 (yyyy-MM-dd -> yyyyMMdd)
                 rawDate = item.get("FSRQ", "")
-                npvDate = rawDate.replace("-", "") if rawDate else ""
+                npvDate = convert_date_to_int(rawDate)
                 npv = item.get("DWJZ")
+                cnpv = item.get("LJJZ")
                 tempRate = item.get("JZZZL")
                 rate = "0.00" if tempRate == "" else tempRate
+                sgzt = item.get("SGZT")
+                shzt = item.get("SHZT")
+                fhsp = item.get("FHSP")
                 dataList.append({
                     "date": npvDate,
                     "nav": npv,
-                    "change_rate": rate
+                    "cnav": cnpv,
+                    "rate_change": rate,
+                    "status_subscription": sgzt,
+                    "status_redemption": shzt,
+                    "dividend_distribution": fhsp,
                 })
 
             # 处理剩余页数据（如果有）
@@ -151,14 +167,22 @@ class FundData(object):
                     for item in listDateData:
                         # 获取日期并去除横线 (yyyy-MM-dd -> yyyyMMdd)
                         rawDate = item.get("FSRQ", "")
-                        npvDate = rawDate.replace("-", "") if rawDate else ""
+                        npvDate = convert_date_to_int(rawDate)
                         npv = item.get("DWJZ")
+                        cnpv = item.get("LJJZ")
                         tempRate = item.get("JZZZL")
                         rate = "0.00" if tempRate == "" else tempRate
+                        sgzt = item.get("SGZT")
+                        shzt = item.get("SHZT")
+                        fhsp = item.get("FHSP")
                         dataList.append({
                             "date": npvDate,
                             "nav": npv,
-                            "change_rate": rate
+                            "cnav": cnpv,
+                            "rate_change": rate,
+                            "status_subscription": sgzt,
+                            "status_redemption": shzt,
+                            "dividend_distribution": fhsp,
                         })
                     sleep(1.5)
             print(f"基金 {self.code} 成功获取 {len(dataList)} 条净值数据")
@@ -174,6 +198,31 @@ class FundData(object):
             print(f"基金 {self.code} 处理过程中出错: {str(e)}")
             return []
 
+
+def convert_date_to_int(raw_date):
+    """
+    将日期字符串转换为8位整数类型的数字日期
+    参数:  raw_date (str): 原始日期字符串
+    返回:  int: 转换后的8位数字日期(如20250801)，无效日期返回0
+    """
+    # 处理空值情况
+    if not raw_date:
+        return 0
+    # 提取所有数字字符
+    digits = ''.join(filter(str.isdigit, raw_date))
+    # 检查是否有足够数字组成日期
+    if len(digits) >= 8:
+        # 取前8位数字作为日期
+        date_str = digits[:8]
+        try:
+            # 提取年份部分并验证
+            year = int(date_str[:4])
+            if 1900 <= year <= 2100:
+                return int(date_str)
+        except ValueError:
+            pass  # 转换失败则返回0
+    return 0
+    
 
 def merge_data(existing_data, new_data):
     """
