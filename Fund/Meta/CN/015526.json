@@ -3,8 +3,8 @@
   "fund_name": "大成动态量化配置策略混合型证券投资基金",
   "name": "大成动态量化配置策略混合C",
   "fund_type": "混合型-灵活",
-  "issue_date": "20160822",
-  "fund_manager": {
+  "issue_date": 20160822,
+  "fund_company": {
     "name": "大成基金",
     "link": "https://fund.eastmoney.com/company/80000225.html"
   },
@@ -12,7 +12,7 @@
     "name": "农业银行",
     "link": "https://fund.eastmoney.com/bank/80001120.html"
   },
-  "fund_manager_person": {
+  "fund_manager": {
     "name": "夏高",
     "link": "https://fund.eastmoney.com/manager/30309950.html"
   },
@@ -31,7 +31,7 @@
   "dividend_policy": "分红政策 1、在符合有关基金分红条件的前提下,本基金每年收益分配次数最多12次,每次收益分配比例不得低于该次可供分配利润的20%,若《基金合同》生效不满3个月可不进行收益分配; 2、本基金收益分配方式分两种:现金分红与红利再投资,投资者可选择现金红利或将现金红利自动转为相应类别的基金份额进行再投资;若投资者不选择,本基金默认的收益分配方式是现金分红; 3、基金收益分配后各类基金份额净值均不能低于面值;即基金收益分配基准日的任一类基金份额净值减去每单位该类基金份额收益分配金额后不能低于面值。 4、由于本基金A类基金份额不收取销售服务费,C类基金份额收取销售服务费,各基金份额类别对应的可供分配利润将有所不同。本基金同一类别的每份基金份额享有同等分配权; 5、法律法规或监管机关另有规定的,从其规定。",
   "risk_return_characteristics": "风险收益特征 本基金属于混合型基金,预期风险与预期收益低于股票型基金,高于债券型基金与货币市场基金。",
   "assets_size": "0.14",
-  "assets_size_date": "20250630",
+  "assets_size_date": 20250630,
   "dividend_per_share": 0.0,
   "dividend_times": 0
 }

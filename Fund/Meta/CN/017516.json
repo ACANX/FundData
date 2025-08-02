@@ -3,8 +3,8 @@
   "fund_name": "易方达北证50成份指数证券投资基金",
   "name": "易方达北证50成份指数C",
   "fund_type": "指数型-股票",
-  "issue_date": "20221129",
-  "fund_manager": {
+  "issue_date": 20221129,
+  "fund_company": {
     "name": "易方达基金",
     "link": "https://fund.eastmoney.com/company/80000229.html"
   },
@@ -12,7 +12,7 @@
     "name": "交通银行",
     "link": "https://fund.eastmoney.com/bank/80001121.html"
   },
-  "fund_manager_person": {
+  "fund_manager": {
     "name": "庞亚平",
     "link": "https://fund.eastmoney.com/manager/30589069.html"
   },
@@ -31,7 +31,7 @@
   "dividend_policy": "分红政策 1、在符合有关基金分红条件的前提下,基金管理人可以根据实际情况进行收益分配,具体分配方案以公告为准,若《基金合同》生效不满3个月可不进行收益分配; 2、本基金收益分配方式分两种:现金分红与红利再投资,投资者可选择现金红利或将现金红利自动转为对应类别的基金份额进行再投资;若投资者不选择,本基金默认的收益分配方式是现金分红; 3、本基金各基金份额类别在费用收取上不同,其对应的可分配收益可能有所不同。同一类别的每一基金份额享有同等分配权; 4、在对基金份额持有人利益无实质不利影响的前提下,基金管理人可调整基金收益的分配原则和支付方式,不需召开基金份额持有人大会审议; 5、法律法规或监管机关另有规定的,从其规定。",
   "risk_return_characteristics": "风险收益特征 本基金为股票型基金,预期风险与预期收益水平高于混合型基金、债券型基金与货币市场基金。本基金为指数型基金,主要采用完全复制法跟踪标的指数的表现,具有与标的指数相似的风险收益特征。",
   "assets_size": "3.14",
-  "assets_size_date": "20250630",
+  "assets_size_date": 20250630,
   "dividend_per_share": 0.0,
   "dividend_times": 0
 }
