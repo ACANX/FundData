@@ -144,7 +144,7 @@ def process_key_value(key, value_cell, result):
             result["基金经理人"] = {"name": text_value, "link": ""}
     
     # 处理其他标准字段
-    elif key in ["基金全称", "基金简称", "基金类型", 
+    elif key in ["基金简称", "基金全称", "基金类型", 
                 "发行日期", "成立日期", "成立来分红",
                 "管理费率", "托管费率", "销售服务费率",
                 "最高认购费率", "最高申购费率", "最高赎回费率",
