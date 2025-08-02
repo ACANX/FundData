@@ -56,6 +56,9 @@ def parse_fund_data(html, fund_code):
     soup = BeautifulSoup(html, 'html.parser')
     result = {"code": fund_code}
     
+    # 添加基金详情页链接
+    result["link"] = f"https://fundf10.eastmoney.com/jbgk_{fund_code}.html"
+    
     # 解析基本信息表格
     info_table = soup.select_one('table.info.w790')
     if info_table:
@@ -325,6 +328,35 @@ def post_process_data(data):
             fee_match = re.search(r'([\d.]+)%', data[fee_field])
             if fee_match:
                 data[fee_field] = fee_match.group(1)
+    
+    # ===== 新增部分：确保字段顺序 =====
+    # 定义期望的字段顺序
+    desired_order = [
+        "code", "name", "fund_name", "fund_type", "issue_date", "link",
+        "establish_date", "fund_company", "fund_custodian", "fund_manager",
+        "dividend_per_share", "dividend_times", "management_fee_rate",
+        "custodian_fee_rate", "service_fee_rate", "max_subscription_fee_rate",
+        "max_purchase_fee_rate", "max_redemption_fee_rate", "assets_size",
+        "assets_size_date", "shares_size", "shares_size_date", "benchmark",
+        "tracking_target", "investment_objective", "investment_philosophy",
+        "investment_scope", "investment_strategy", "dividend_policy",
+        "risk_return_characteristics"
+    ]
+    
+    # 创建新字典并按期望顺序添加字段
+    ordered_data = {}
+    for key in desired_order:
+        if key in data:
+            ordered_data[key] = data[key]
+    
+    # 添加可能存在的其他字段
+    for key in data:
+        if key not in desired_order:
+            ordered_data[key] = data[key]
+    
+    # 更新原始数据字典
+    data.clear()
+    data.update(ordered_data)
 
 def save_fund_metadata(fund_code, data):
     """保存基金元数据到JSON文件"""
