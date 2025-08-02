@@ -4,7 +4,7 @@ name: MetadataWorkflow
 on:
   workflow_dispatch: # 允许手动触发
   schedule:
-    - cron: '40 23 * * *'
+    - cron: '40 1 * * 1'
 
 jobs:
   build:
