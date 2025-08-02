@@ -1,0 +1,7283 @@
+[
+    {
+        "date": 20250801,
+        "nav": "1.2479",
+        "cnav": "1.2479",
+        "rate_change": "0.86",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250731,
+        "nav": "1.2372",
+        "cnav": "1.2372",
+        "rate_change": "-0.75",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250730,
+        "nav": "1.2465",
+        "cnav": "1.2465",
+        "rate_change": "-0.46",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250729,
+        "nav": "1.2522",
+        "cnav": "1.2522",
+        "rate_change": "-0.04",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250728,
+        "nav": "1.2527",
+        "cnav": "1.2527",
+        "rate_change": "0.42",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250725,
+        "nav": "1.2475",
+        "cnav": "1.2475",
+        "rate_change": "0.31",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250724,
+        "nav": "1.2436",
+        "cnav": "1.2436",
+        "rate_change": "1.00",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250723,
+        "nav": "1.2313",
+        "cnav": "1.2313",
+        "rate_change": "-0.60",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250722,
+        "nav": "1.2387",
+        "cnav": "1.2387",
+        "rate_change": "0.13",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250721,
+        "nav": "1.2371",
+        "cnav": "1.2371",
+        "rate_change": "1.23",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250718,
+        "nav": "1.2221",
+        "cnav": "1.2221",
+        "rate_change": "0.07",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250717,
+        "nav": "1.2212",
+        "cnav": "1.2212",
+        "rate_change": "0.94",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250716,
+        "nav": "1.2098",
+        "cnav": "1.2098",
+        "rate_change": "0.88",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250715,
+        "nav": "1.1992",
+        "cnav": "1.1992",
+        "rate_change": "-0.54",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250714,
+        "nav": "1.2057",
+        "cnav": "1.2057",
+        "rate_change": "0.96",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250711,
+        "nav": "1.1942",
+        "cnav": "1.1942",
+        "rate_change": "0.50",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250710,
+        "nav": "1.1882",
+        "cnav": "1.1882",
+        "rate_change": "0.43",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250709,
+        "nav": "1.1831",
+        "cnav": "1.1831",
+        "rate_change": "-0.12",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250708,
+        "nav": "1.1845",
+        "cnav": "1.1845",
+        "rate_change": "1.40",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250707,
+        "nav": "1.1681",
+        "cnav": "1.1681",
+        "rate_change": "0.53",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250704,
+        "nav": "1.1619",
+        "cnav": "1.1619",
+        "rate_change": "-0.79",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250703,
+        "nav": "1.1712",
+        "cnav": "1.1712",
+        "rate_change": "0.77",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250702,
+        "nav": "1.1623",
+        "cnav": "1.1623",
+        "rate_change": "-0.39",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250701,
+        "nav": "1.1668",
+        "cnav": "1.1668",
+        "rate_change": "0.41",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250630,
+        "nav": "1.1620",
+        "cnav": "1.1620",
+        "rate_change": "1.14",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250627,
+        "nav": "1.1489",
+        "cnav": "1.1489",
+        "rate_change": "0.67",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250626,
+        "nav": "1.1412",
+        "cnav": "1.1412",
+        "rate_change": "-0.30",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250625,
+        "nav": "1.1446",
+        "cnav": "1.1446",
+        "rate_change": "0.87",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250624,
+        "nav": "1.1347",
+        "cnav": "1.1347",
+        "rate_change": "2.12",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250623,
+        "nav": "1.1111",
+        "cnav": "1.1111",
+        "rate_change": "1.63",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250620,
+        "nav": "1.0933",
+        "cnav": "1.0933",
+        "rate_change": "-0.18",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250619,
+        "nav": "1.0953",
+        "cnav": "1.0953",
+        "rate_change": "-1.56",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250618,
+        "nav": "1.1127",
+        "cnav": "1.1127",
+        "rate_change": "-0.02",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250617,
+        "nav": "1.1129",
+        "cnav": "1.1129",
+        "rate_change": "-0.15",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250616,
+        "nav": "1.1146",
+        "cnav": "1.1146",
+        "rate_change": "1.24",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250613,
+        "nav": "1.1010",
+        "cnav": "1.1010",
+        "rate_change": "-1.92",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250612,
+        "nav": "1.1225",
+        "cnav": "1.1225",
+        "rate_change": "0.21",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250611,
+        "nav": "1.1201",
+        "cnav": "1.1201",
+        "rate_change": "0.62",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250610,
+        "nav": "1.1132",
+        "cnav": "1.1132",
+        "rate_change": "-1.19",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250609,
+        "nav": "1.1266",
+        "cnav": "1.1266",
+        "rate_change": "1.19",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250606,
+        "nav": "1.1134",
+        "cnav": "1.1134",
+        "rate_change": "0.32",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250605,
+        "nav": "1.1099",
+        "cnav": "1.1099",
+        "rate_change": "0.69",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250604,
+        "nav": "1.1023",
+        "cnav": "1.1023",
+        "rate_change": "0.92",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250603,
+        "nav": "1.0922",
+        "cnav": "1.0922",
+        "rate_change": "0.65",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250530,
+        "nav": "1.0851",
+        "cnav": "1.0851",
+        "rate_change": "-1.47",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250529,
+        "nav": "1.1013",
+        "cnav": "1.1013",
+        "rate_change": "2.15",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250528,
+        "nav": "1.0781",
+        "cnav": "1.0781",
+        "rate_change": "-0.28",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250527,
+        "nav": "1.0811",
+        "cnav": "1.0811",
+        "rate_change": "0.24",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250526,
+        "nav": "1.0785",
+        "cnav": "1.0785",
+        "rate_change": "0.97",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250523,
+        "nav": "1.0681",
+        "cnav": "1.0681",
+        "rate_change": "-1.07",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250522,
+        "nav": "1.0797",
+        "cnav": "1.0797",
+        "rate_change": "-0.69",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250521,
+        "nav": "1.0872",
+        "cnav": "1.0872",
+        "rate_change": "-0.49",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250520,
+        "nav": "1.0926",
+        "cnav": "1.0926",
+        "rate_change": "1.19",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250519,
+        "nav": "1.0797",
+        "cnav": "1.0797",
+        "rate_change": "1.22",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250516,
+        "nav": "1.0667",
+        "cnav": "1.0667",
+        "rate_change": "0.66",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250515,
+        "nav": "1.0597",
+        "cnav": "1.0597",
+        "rate_change": "-0.99",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250514,
+        "nav": "1.0703",
+        "cnav": "1.0703",
+        "rate_change": "0.03",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250513,
+        "nav": "1.0700",
+        "cnav": "1.0700",
+        "rate_change": "-0.41",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250512,
+        "nav": "1.0744",
+        "cnav": "1.0744",
+        "rate_change": "1.19",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250509,
+        "nav": "1.0618",
+        "cnav": "1.0618",
+        "rate_change": "-1.16",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250508,
+        "nav": "1.0743",
+        "cnav": "1.0743",
+        "rate_change": "1.30",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250507,
+        "nav": "1.0605",
+        "cnav": "1.0605",
+        "rate_change": "0.41",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250506,
+        "nav": "1.0562",
+        "cnav": "1.0562",
+        "rate_change": "2.87",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250430,
+        "nav": "1.0267",
+        "cnav": "1.0267",
+        "rate_change": "1.78",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250429,
+        "nav": "1.0087",
+        "cnav": "1.0087",
+        "rate_change": "0.85",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250428,
+        "nav": "1.0002",
+        "cnav": "1.0002",
+        "rate_change": "-1.33",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250425,
+        "nav": "1.0137",
+        "cnav": "1.0137",
+        "rate_change": "0.24",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250424,
+        "nav": "1.0113",
+        "cnav": "1.0113",
+        "rate_change": "-0.90",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250423,
+        "nav": "1.0205",
+        "cnav": "1.0205",
+        "rate_change": "1.23",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250422,
+        "nav": "1.0081",
+        "cnav": "1.0081",
+        "rate_change": "0.33",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250421,
+        "nav": "1.0048",
+        "cnav": "1.0048",
+        "rate_change": "2.19",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250418,
+        "nav": "0.9833",
+        "cnav": "0.9833",
+        "rate_change": "0.35",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250417,
+        "nav": "0.9799",
+        "cnav": "0.9799",
+        "rate_change": "0.53",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250416,
+        "nav": "0.9747",
+        "cnav": "0.9747",
+        "rate_change": "-1.62",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250415,
+        "nav": "0.9908",
+        "cnav": "0.9908",
+        "rate_change": "-0.02",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250414,
+        "nav": "0.9910",
+        "cnav": "0.9910",
+        "rate_change": "1.42",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250411,
+        "nav": "0.9771",
+        "cnav": "0.9771",
+        "rate_change": "1.12",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250410,
+        "nav": "0.9663",
+        "cnav": "0.9663",
+        "rate_change": "2.60",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250409,
+        "nav": "0.9418",
+        "cnav": "0.9418",
+        "rate_change": "3.11",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250408,
+        "nav": "0.9134",
+        "cnav": "0.9134",
+        "rate_change": "0.37",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250407,
+        "nav": "0.9100",
+        "cnav": "0.9100",
+        "rate_change": "-12.40",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250403,
+        "nav": "1.0388",
+        "cnav": "1.0388",
+        "rate_change": "-0.89",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250402,
+        "nav": "1.0481",
+        "cnav": "1.0481",
+        "rate_change": "0.16",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250401,
+        "nav": "1.0464",
+        "cnav": "1.0464",
+        "rate_change": "1.18",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250331,
+        "nav": "1.0342",
+        "cnav": "1.0342",
+        "rate_change": "-0.98",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250328,
+        "nav": "1.0444",
+        "cnav": "1.0444",
+        "rate_change": "-1.05",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250327,
+        "nav": "1.0555",
+        "cnav": "1.0555",
+        "rate_change": "-0.33",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250326,
+        "nav": "1.0590",
+        "cnav": "1.0590",
+        "rate_change": "0.87",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250325,
+        "nav": "1.0499",
+        "cnav": "1.0499",
+        "rate_change": "-0.11",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250324,
+        "nav": "1.0511",
+        "cnav": "1.0511",
+        "rate_change": "-1.41",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250321,
+        "nav": "1.0661",
+        "cnav": "1.0661",
+        "rate_change": "-1.71",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250320,
+        "nav": "1.0847",
+        "cnav": "1.0847",
+        "rate_change": "0.37",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250319,
+        "nav": "1.0807",
+        "cnav": "1.0807",
+        "rate_change": "-0.49",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250318,
+        "nav": "1.0860",
+        "cnav": "1.0860",
+        "rate_change": "0.86",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250317,
+        "nav": "1.0767",
+        "cnav": "1.0767",
+        "rate_change": "0.59",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250314,
+        "nav": "1.0704",
+        "cnav": "1.0704",
+        "rate_change": "1.66",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250313,
+        "nav": "1.0529",
+        "cnav": "1.0529",
+        "rate_change": "-0.81",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250312,
+        "nav": "1.0615",
+        "cnav": "1.0615",
+        "rate_change": "0.57",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250311,
+        "nav": "1.0555",
+        "cnav": "1.0555",
+        "rate_change": "0.46",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250310,
+        "nav": "1.0507",
+        "cnav": "1.0507",
+        "rate_change": "0.73",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250307,
+        "nav": "1.0431",
+        "cnav": "1.0431",
+        "rate_change": "-0.23",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250306,
+        "nav": "1.0455",
+        "cnav": "1.0455",
+        "rate_change": "1.44",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250305,
+        "nav": "1.0307",
+        "cnav": "1.0307",
+        "rate_change": "0.49",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250304,
+        "nav": "1.0257",
+        "cnav": "1.0257",
+        "rate_change": "1.35",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250303,
+        "nav": "1.0120",
+        "cnav": "1.0120",
+        "rate_change": "0.37",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250228,
+        "nav": "1.0083",
+        "cnav": "1.0083",
+        "rate_change": "-2.81",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250227,
+        "nav": "1.0375",
+        "cnav": "1.0375",
+        "rate_change": "-0.07",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250226,
+        "nav": "1.0382",
+        "cnav": "1.0382",
+        "rate_change": "1.79",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250225,
+        "nav": "1.0199",
+        "cnav": "1.0199",
+        "rate_change": "0.28",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250224,
+        "nav": "1.0171",
+        "cnav": "1.0171",
+        "rate_change": "0.33",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250221,
+        "nav": "1.0138",
+        "cnav": "1.0138",
+        "rate_change": "0.39",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250220,
+        "nav": "1.0099",
+        "cnav": "1.0099",
+        "rate_change": "1.27",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250219,
+        "nav": "0.9972",
+        "cnav": "0.9972",
+        "rate_change": "1.60",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250218,
+        "nav": "0.9815",
+        "cnav": "0.9815",
+        "rate_change": "-2.15",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250217,
+        "nav": "1.0031",
+        "cnav": "1.0031",
+        "rate_change": "1.01",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250214,
+        "nav": "0.9931",
+        "cnav": "0.9931",
+        "rate_change": "0.27",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250213,
+        "nav": "0.9904",
+        "cnav": "0.9904",
+        "rate_change": "-0.91",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250212,
+        "nav": "0.9995",
+        "cnav": "0.9995",
+        "rate_change": "0.88",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250211,
+        "nav": "0.9908",
+        "cnav": "0.9908",
+        "rate_change": "-0.66",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250210,
+        "nav": "0.9974",
+        "cnav": "0.9974",
+        "rate_change": "2.08",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250207,
+        "nav": "0.9771",
+        "cnav": "0.9771",
+        "rate_change": "1.31",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250206,
+        "nav": "0.9645",
+        "cnav": "0.9645",
+        "rate_change": "1.94",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250205,
+        "nav": "0.9461",
+        "cnav": "0.9461",
+        "rate_change": "0.40",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250127,
+        "nav": "0.9423",
+        "cnav": "0.9423",
+        "rate_change": "-1.05",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250124,
+        "nav": "0.9523",
+        "cnav": "0.9523",
+        "rate_change": "1.37",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250123,
+        "nav": "0.9394",
+        "cnav": "0.9394",
+        "rate_change": "0.33",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250122,
+        "nav": "0.9363",
+        "cnav": "0.9363",
+        "rate_change": "-1.33",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250121,
+        "nav": "0.9489",
+        "cnav": "0.9489",
+        "rate_change": "-0.15",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250120,
+        "nav": "0.9503",
+        "cnav": "0.9503",
+        "rate_change": "0.71",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250117,
+        "nav": "0.9436",
+        "cnav": "0.9436",
+        "rate_change": "-0.05",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250116,
+        "nav": "0.9441",
+        "cnav": "0.9441",
+        "rate_change": "0.59",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250115,
+        "nav": "0.9386",
+        "cnav": "0.9386",
+        "rate_change": "-0.07",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250114,
+        "nav": "0.9393",
+        "cnav": "0.9393",
+        "rate_change": "4.61",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250113,
+        "nav": "0.8979",
+        "cnav": "0.8979",
+        "rate_change": "-0.11",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250110,
+        "nav": "0.8989",
+        "cnav": "0.8989",
+        "rate_change": "-1.98",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250109,
+        "nav": "0.9171",
+        "cnav": "0.9171",
+        "rate_change": "0.49",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250108,
+        "nav": "0.9126",
+        "cnav": "0.9126",
+        "rate_change": "1.11",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250107,
+        "nav": "0.9026",
+        "cnav": "0.9026",
+        "rate_change": "0.16",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250106,
+        "nav": "0.9012",
+        "cnav": "0.9012",
+        "rate_change": "0.21",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250103,
+        "nav": "0.8993",
+        "cnav": "0.8993",
+        "rate_change": "-0.95",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20250102,
+        "nav": "0.9079",
+        "cnav": "0.9079",
+        "rate_change": "-2.11",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241231,
+        "nav": "0.9275",
+        "cnav": "0.9275",
+        "rate_change": "-0.69",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241230,
+        "nav": "0.9339",
+        "cnav": "0.9339",
+        "rate_change": "0.69",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241227,
+        "nav": "0.9275",
+        "cnav": "0.9275",
+        "rate_change": "0.43",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241226,
+        "nav": "0.9235",
+        "cnav": "0.9235",
+        "rate_change": "-0.27",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241225,
+        "nav": "0.9260",
+        "cnav": "0.9260",
+        "rate_change": "0.33",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241224,
+        "nav": "0.9230",
+        "cnav": "0.9230",
+        "rate_change": "1.26",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241223,
+        "nav": "0.9115",
+        "cnav": "0.9115",
+        "rate_change": "-0.03",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241220,
+        "nav": "0.9118",
+        "cnav": "0.9118",
+        "rate_change": "-0.35",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241219,
+        "nav": "0.9150",
+        "cnav": "0.9150",
+        "rate_change": "-0.49",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241218,
+        "nav": "0.9195",
+        "cnav": "0.9195",
+        "rate_change": "0.43",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241217,
+        "nav": "0.9156",
+        "cnav": "0.9156",
+        "rate_change": "-0.56",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241216,
+        "nav": "0.9208",
+        "cnav": "0.9208",
+        "rate_change": "0.33",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241213,
+        "nav": "0.9178",
+        "cnav": "0.9178",
+        "rate_change": "-1.67",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241212,
+        "nav": "0.9334",
+        "cnav": "0.9334",
+        "rate_change": "0.91",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241211,
+        "nav": "0.9250",
+        "cnav": "0.9250",
+        "rate_change": "0.71",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241210,
+        "nav": "0.9185",
+        "cnav": "0.9185",
+        "rate_change": "0.27",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241209,
+        "nav": "0.9160",
+        "cnav": "0.9160",
+        "rate_change": "0.08",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241206,
+        "nav": "0.9153",
+        "cnav": "0.9153",
+        "rate_change": "1.08",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241205,
+        "nav": "0.9055",
+        "cnav": "0.9055",
+        "rate_change": "-0.03",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241204,
+        "nav": "0.9058",
+        "cnav": "0.9058",
+        "rate_change": "-0.53",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241203,
+        "nav": "0.9106",
+        "cnav": "0.9106",
+        "rate_change": "0.82",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241202,
+        "nav": "0.9032",
+        "cnav": "0.9032",
+        "rate_change": "0.98",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241129,
+        "nav": "0.8944",
+        "cnav": "0.8944",
+        "rate_change": "0.80",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241128,
+        "nav": "0.8873",
+        "cnav": "0.8873",
+        "rate_change": "-0.31",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241127,
+        "nav": "0.8901",
+        "cnav": "0.8901",
+        "rate_change": "1.03",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241126,
+        "nav": "0.8810",
+        "cnav": "0.8810",
+        "rate_change": "-0.38",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241125,
+        "nav": "0.8844",
+        "cnav": "0.8844",
+        "rate_change": "0.79",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241122,
+        "nav": "0.8775",
+        "cnav": "0.8775",
+        "rate_change": "-2.82",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241121,
+        "nav": "0.9030",
+        "cnav": "0.9030",
+        "rate_change": "0.07",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241120,
+        "nav": "0.9024",
+        "cnav": "0.9024",
+        "rate_change": "0.77",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241119,
+        "nav": "0.8955",
+        "cnav": "0.8955",
+        "rate_change": "1.14",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241118,
+        "nav": "0.8854",
+        "cnav": "0.8854",
+        "rate_change": "0.07",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241115,
+        "nav": "0.8848",
+        "cnav": "0.8848",
+        "rate_change": "-1.01",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241114,
+        "nav": "0.8938",
+        "cnav": "0.8938",
+        "rate_change": "-1.64",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241113,
+        "nav": "0.9087",
+        "cnav": "0.9087",
+        "rate_change": "0.55",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241112,
+        "nav": "0.9037",
+        "cnav": "0.9037",
+        "rate_change": "-0.79",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241111,
+        "nav": "0.9109",
+        "cnav": "0.9109",
+        "rate_change": "0.03",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241108,
+        "nav": "0.9106",
+        "cnav": "0.9106",
+        "rate_change": "-0.82",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241107,
+        "nav": "0.9181",
+        "cnav": "0.9181",
+        "rate_change": "2.35",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241106,
+        "nav": "0.8970",
+        "cnav": "0.8970",
+        "rate_change": "-0.58",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241105,
+        "nav": "0.9022",
+        "cnav": "0.9022",
+        "rate_change": "1.26",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241104,
+        "nav": "0.8910",
+        "cnav": "0.8910",
+        "rate_change": "1.47",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241101,
+        "nav": "0.8781",
+        "cnav": "0.8781",
+        "rate_change": "-0.14",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241031,
+        "nav": "0.8793",
+        "cnav": "0.8793",
+        "rate_change": "-0.24",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241030,
+        "nav": "0.8814",
+        "cnav": "0.8814",
+        "rate_change": "-0.73",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241029,
+        "nav": "0.8879",
+        "cnav": "0.8879",
+        "rate_change": "-1.32",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241028,
+        "nav": "0.8998",
+        "cnav": "0.8998",
+        "rate_change": "0.83",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241025,
+        "nav": "0.8924",
+        "cnav": "0.8924",
+        "rate_change": "0.31",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241024,
+        "nav": "0.8896",
+        "cnav": "0.8896",
+        "rate_change": "-0.38",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241023,
+        "nav": "0.8930",
+        "cnav": "0.8930",
+        "rate_change": "0.19",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241022,
+        "nav": "0.8913",
+        "cnav": "0.8913",
+        "rate_change": "1.02",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241021,
+        "nav": "0.8823",
+        "cnav": "0.8823",
+        "rate_change": "0.23",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241018,
+        "nav": "0.8803",
+        "cnav": "0.8803",
+        "rate_change": "1.82",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241017,
+        "nav": "0.8646",
+        "cnav": "0.8646",
+        "rate_change": "-1.03",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241016,
+        "nav": "0.8736",
+        "cnav": "0.8736",
+        "rate_change": "0.24",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241015,
+        "nav": "0.8715",
+        "cnav": "0.8715",
+        "rate_change": "-2.12",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241014,
+        "nav": "0.8904",
+        "cnav": "0.8904",
+        "rate_change": "2.38",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241011,
+        "nav": "0.8697",
+        "cnav": "0.8697",
+        "rate_change": "-2.43",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241010,
+        "nav": "0.8914",
+        "cnav": "0.8914",
+        "rate_change": "1.36",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241009,
+        "nav": "0.8794",
+        "cnav": "0.8794",
+        "rate_change": "-7.18",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20241008,
+        "nav": "0.9474",
+        "cnav": "0.9474",
+        "rate_change": "4.20",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240930,
+        "nav": "0.9092",
+        "cnav": "0.9092",
+        "rate_change": "7.20",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240927,
+        "nav": "0.8481",
+        "cnav": "0.8481",
+        "rate_change": "2.75",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240926,
+        "nav": "0.8254",
+        "cnav": "0.8254",
+        "rate_change": "2.28",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240925,
+        "nav": "0.8070",
+        "cnav": "0.8070",
+        "rate_change": "0.47",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240924,
+        "nav": "0.8032",
+        "cnav": "0.8032",
+        "rate_change": "2.80",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240923,
+        "nav": "0.7813",
+        "cnav": "0.7813",
+        "rate_change": "-0.09",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240920,
+        "nav": "0.7820",
+        "cnav": "0.7820",
+        "rate_change": "-0.32",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240919,
+        "nav": "0.7845",
+        "cnav": "0.7845",
+        "rate_change": "0.32",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240918,
+        "nav": "0.7820",
+        "cnav": "0.7820",
+        "rate_change": "0.39",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240913,
+        "nav": "0.7790",
+        "cnav": "0.7790",
+        "rate_change": "-0.49",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240912,
+        "nav": "0.7828",
+        "cnav": "0.7828",
+        "rate_change": "-0.50",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240911,
+        "nav": "0.7867",
+        "cnav": "0.7867",
+        "rate_change": "-0.42",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240910,
+        "nav": "0.7900",
+        "cnav": "0.7900",
+        "rate_change": "0.04",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240909,
+        "nav": "0.7897",
+        "cnav": "0.7897",
+        "rate_change": "-0.85",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240906,
+        "nav": "0.7965",
+        "cnav": "0.7965",
+        "rate_change": "-1.02",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240905,
+        "nav": "0.8047",
+        "cnav": "0.8047",
+        "rate_change": "0.26",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240904,
+        "nav": "0.8026",
+        "cnav": "0.8026",
+        "rate_change": "-0.07",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240903,
+        "nav": "0.8032",
+        "cnav": "0.8032",
+        "rate_change": "0.00",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240902,
+        "nav": "0.8032",
+        "cnav": "0.8032",
+        "rate_change": "-0.41",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240830,
+        "nav": "0.8065",
+        "cnav": "0.8065",
+        "rate_change": "0.02",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240829,
+        "nav": "0.8063",
+        "cnav": "0.8063",
+        "rate_change": "-0.81",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240828,
+        "nav": "0.8129",
+        "cnav": "0.8129",
+        "rate_change": "-0.26",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240827,
+        "nav": "0.8150",
+        "cnav": "0.8150",
+        "rate_change": "-0.34",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240826,
+        "nav": "0.8178",
+        "cnav": "0.8178",
+        "rate_change": "-0.17",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240823,
+        "nav": "0.8192",
+        "cnav": "0.8192",
+        "rate_change": "-0.15",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240822,
+        "nav": "0.8204",
+        "cnav": "0.8204",
+        "rate_change": "-0.11",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240821,
+        "nav": "0.8213",
+        "cnav": "0.8213",
+        "rate_change": "-0.53",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240820,
+        "nav": "0.8257",
+        "cnav": "0.8257",
+        "rate_change": "-0.96",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240819,
+        "nav": "0.8337",
+        "cnav": "0.8337",
+        "rate_change": "0.17",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240816,
+        "nav": "0.8323",
+        "cnav": "0.8323",
+        "rate_change": "-0.02",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240815,
+        "nav": "0.8325",
+        "cnav": "0.8325",
+        "rate_change": "0.43",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240814,
+        "nav": "0.8289",
+        "cnav": "0.8289",
+        "rate_change": "-0.42",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240813,
+        "nav": "0.8324",
+        "cnav": "0.8324",
+        "rate_change": "0.26",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240812,
+        "nav": "0.8302",
+        "cnav": "0.8302",
+        "rate_change": "0.11",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240809,
+        "nav": "0.8293",
+        "cnav": "0.8293",
+        "rate_change": "-0.68",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240808,
+        "nav": "0.8350",
+        "cnav": "0.8350",
+        "rate_change": "-0.08",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240807,
+        "nav": "0.8357",
+        "cnav": "0.8357",
+        "rate_change": "0.18",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240806,
+        "nav": "0.8342",
+        "cnav": "0.8342",
+        "rate_change": "0.66",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240805,
+        "nav": "0.8287",
+        "cnav": "0.8287",
+        "rate_change": "-1.75",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240802,
+        "nav": "0.8435",
+        "cnav": "0.8435",
+        "rate_change": "-0.85",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240801,
+        "nav": "0.8507",
+        "cnav": "0.8507",
+        "rate_change": "-0.12",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240731,
+        "nav": "0.8517",
+        "cnav": "0.8517",
+        "rate_change": "2.20",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240730,
+        "nav": "0.8334",
+        "cnav": "0.8334",
+        "rate_change": "-0.42",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240729,
+        "nav": "0.8369",
+        "cnav": "0.8369",
+        "rate_change": "-0.19",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240726,
+        "nav": "0.8385",
+        "cnav": "0.8385",
+        "rate_change": "0.68",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240725,
+        "nav": "0.8328",
+        "cnav": "0.8328",
+        "rate_change": "-0.35",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240724,
+        "nav": "0.8357",
+        "cnav": "0.8357",
+        "rate_change": "-0.78",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240723,
+        "nav": "0.8423",
+        "cnav": "0.8423",
+        "rate_change": "-2.05",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240722,
+        "nav": "0.8599",
+        "cnav": "0.8599",
+        "rate_change": "-0.12",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240719,
+        "nav": "0.8609",
+        "cnav": "0.8609",
+        "rate_change": "0.40",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240718,
+        "nav": "0.8575",
+        "cnav": "0.8575",
+        "rate_change": "0.14",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240717,
+        "nav": "0.8563",
+        "cnav": "0.8563",
+        "rate_change": "-0.63",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240716,
+        "nav": "0.8617",
+        "cnav": "0.8617",
+        "rate_change": "-0.20",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240715,
+        "nav": "0.8634",
+        "cnav": "0.8634",
+        "rate_change": "-1.19",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240712,
+        "nav": "0.8738",
+        "cnav": "0.8738",
+        "rate_change": "-0.09",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240711,
+        "nav": "0.8746",
+        "cnav": "0.8746",
+        "rate_change": "2.62",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240710,
+        "nav": "0.8523",
+        "cnav": "0.8523",
+        "rate_change": "-0.59",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240709,
+        "nav": "0.8574",
+        "cnav": "0.8574",
+        "rate_change": "1.37",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240708,
+        "nav": "0.8458",
+        "cnav": "0.8458",
+        "rate_change": "-3.00",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240705,
+        "nav": "0.8720",
+        "cnav": "0.8720",
+        "rate_change": "1.31",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240704,
+        "nav": "0.8607",
+        "cnav": "0.8607",
+        "rate_change": "-3.30",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240703,
+        "nav": "0.8901",
+        "cnav": "0.8901",
+        "rate_change": "-1.17",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240702,
+        "nav": "0.9006",
+        "cnav": "0.9006",
+        "rate_change": "0.03",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240701,
+        "nav": "0.9003",
+        "cnav": "0.9003",
+        "rate_change": "0.30",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240630,
+        "nav": "0.8976",
+        "cnav": "0.8976",
+        "rate_change": "-0.01",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240628,
+        "nav": "0.8977",
+        "cnav": "0.8977",
+        "rate_change": "0.48",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240627,
+        "nav": "0.8934",
+        "cnav": "0.8934",
+        "rate_change": "-1.89",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240626,
+        "nav": "0.9106",
+        "cnav": "0.9106",
+        "rate_change": "3.44",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240625,
+        "nav": "0.8803",
+        "cnav": "0.8803",
+        "rate_change": "0.14",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240624,
+        "nav": "0.8791",
+        "cnav": "0.8791",
+        "rate_change": "-4.33",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240621,
+        "nav": "0.9189",
+        "cnav": "0.9189",
+        "rate_change": "-0.70",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240620,
+        "nav": "0.9254",
+        "cnav": "0.9254",
+        "rate_change": "-1.25",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240619,
+        "nav": "0.9371",
+        "cnav": "0.9371",
+        "rate_change": "-0.16",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240618,
+        "nav": "0.9386",
+        "cnav": "0.9386",
+        "rate_change": "1.76",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240617,
+        "nav": "0.9224",
+        "cnav": "0.9224",
+        "rate_change": "-1.33",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240614,
+        "nav": "0.9348",
+        "cnav": "0.9348",
+        "rate_change": "0.02",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240613,
+        "nav": "0.9346",
+        "cnav": "0.9346",
+        "rate_change": "0.13",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240612,
+        "nav": "0.9334",
+        "cnav": "0.9334",
+        "rate_change": "2.56",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240611,
+        "nav": "0.9101",
+        "cnav": "0.9101",
+        "rate_change": "0.32",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240607,
+        "nav": "0.9072",
+        "cnav": "0.9072",
+        "rate_change": "4.20",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240606,
+        "nav": "0.8706",
+        "cnav": "0.8706",
+        "rate_change": "-5.99",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240605,
+        "nav": "0.9261",
+        "cnav": "0.9261",
+        "rate_change": "-2.26",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240604,
+        "nav": "0.9475",
+        "cnav": "0.9475",
+        "rate_change": "-2.62",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240603,
+        "nav": "0.9730",
+        "cnav": "0.9730",
+        "rate_change": "-3.27",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240531,
+        "nav": "1.0059",
+        "cnav": "1.0059",
+        "rate_change": "1.21",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240530,
+        "nav": "0.9939",
+        "cnav": "0.9939",
+        "rate_change": "-1.07",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240529,
+        "nav": "1.0046",
+        "cnav": "1.0046",
+        "rate_change": "0.90",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240528,
+        "nav": "0.9956",
+        "cnav": "0.9956",
+        "rate_change": "-1.62",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240527,
+        "nav": "1.0120",
+        "cnav": "1.0120",
+        "rate_change": "0.87",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240524,
+        "nav": "1.0033",
+        "cnav": "1.0033",
+        "rate_change": "-0.81",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240523,
+        "nav": "1.0115",
+        "cnav": "1.0115",
+        "rate_change": "-2.27",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240522,
+        "nav": "1.0350",
+        "cnav": "1.0350",
+        "rate_change": "1.02",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240521,
+        "nav": "1.0246",
+        "cnav": "1.0246",
+        "rate_change": "-1.05",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240520,
+        "nav": "1.0355",
+        "cnav": "1.0355",
+        "rate_change": "0.22",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240517,
+        "nav": "1.0332",
+        "cnav": "1.0332",
+        "rate_change": "1.65",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240516,
+        "nav": "1.0164",
+        "cnav": "1.0164",
+        "rate_change": "2.01",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240515,
+        "nav": "0.9964",
+        "cnav": "0.9964",
+        "rate_change": "-0.05",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240514,
+        "nav": "0.9969",
+        "cnav": "0.9969",
+        "rate_change": "1.89",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240513,
+        "nav": "0.9784",
+        "cnav": "0.9784",
+        "rate_change": "-3.21",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240510,
+        "nav": "1.0108",
+        "cnav": "1.0108",
+        "rate_change": "-1.93",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240509,
+        "nav": "1.0307",
+        "cnav": "1.0307",
+        "rate_change": "1.24",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240508,
+        "nav": "1.0181",
+        "cnav": "1.0181",
+        "rate_change": "-1.40",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240507,
+        "nav": "1.0326",
+        "cnav": "1.0326",
+        "rate_change": "1.19",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240506,
+        "nav": "1.0205",
+        "cnav": "1.0205",
+        "rate_change": "2.23",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240430,
+        "nav": "0.9982",
+        "cnav": "0.9982",
+        "rate_change": "-0.22",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240429,
+        "nav": "1.0004",
+        "cnav": "1.0004",
+        "rate_change": "4.22",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240426,
+        "nav": "0.9599",
+        "cnav": "0.9599",
+        "rate_change": "0.62",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240425,
+        "nav": "0.9540",
+        "cnav": "0.9540",
+        "rate_change": "0.85",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240424,
+        "nav": "0.9460",
+        "cnav": "0.9460",
+        "rate_change": "3.26",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240423,
+        "nav": "0.9161",
+        "cnav": "0.9161",
+        "rate_change": "3.42",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240422,
+        "nav": "0.8858",
+        "cnav": "0.8858",
+        "rate_change": "-1.73",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240419,
+        "nav": "0.9014",
+        "cnav": "0.9014",
+        "rate_change": "-1.28",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240418,
+        "nav": "0.9131",
+        "cnav": "0.9131",
+        "rate_change": "-0.77",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240417,
+        "nav": "0.9202",
+        "cnav": "0.9202",
+        "rate_change": "11.23",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240416,
+        "nav": "0.8273",
+        "cnav": "0.8273",
+        "rate_change": "-10.89",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240415,
+        "nav": "0.9284",
+        "cnav": "0.9284",
+        "rate_change": "-8.12",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240412,
+        "nav": "1.0105",
+        "cnav": "1.0105",
+        "rate_change": "-0.41",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240411,
+        "nav": "1.0147",
+        "cnav": "1.0147",
+        "rate_change": "0.87",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240410,
+        "nav": "1.0059",
+        "cnav": "1.0059",
+        "rate_change": "-2.30",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240409,
+        "nav": "1.0296",
+        "cnav": "1.0296",
+        "rate_change": "1.81",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240408,
+        "nav": "1.0113",
+        "cnav": "1.0113",
+        "rate_change": "-4.93",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240403,
+        "nav": "1.0637",
+        "cnav": "1.0637",
+        "rate_change": "-0.74",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240402,
+        "nav": "1.0716",
+        "cnav": "1.0716",
+        "rate_change": "0.94",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240401,
+        "nav": "1.0616",
+        "cnav": "1.0616",
+        "rate_change": "2.31",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240329,
+        "nav": "1.0376",
+        "cnav": "1.0376",
+        "rate_change": "1.79",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240328,
+        "nav": "1.0194",
+        "cnav": "1.0194",
+        "rate_change": "3.49",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240327,
+        "nav": "0.9850",
+        "cnav": "0.9850",
+        "rate_change": "-3.14",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240326,
+        "nav": "1.0169",
+        "cnav": "1.0169",
+        "rate_change": "0.44",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240325,
+        "nav": "1.0124",
+        "cnav": "1.0124",
+        "rate_change": "-2.85",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240322,
+        "nav": "1.0421",
+        "cnav": "1.0421",
+        "rate_change": "-1.72",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240321,
+        "nav": "1.0603",
+        "cnav": "1.0603",
+        "rate_change": "0.21",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240320,
+        "nav": "1.0581",
+        "cnav": "1.0581",
+        "rate_change": "1.93",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240319,
+        "nav": "1.0381",
+        "cnav": "1.0381",
+        "rate_change": "0.16",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240318,
+        "nav": "1.0364",
+        "cnav": "1.0364",
+        "rate_change": "3.01",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240315,
+        "nav": "1.0061",
+        "cnav": "1.0061",
+        "rate_change": "1.91",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240314,
+        "nav": "0.9872",
+        "cnav": "0.9872",
+        "rate_change": "0.16",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240313,
+        "nav": "0.9856",
+        "cnav": "0.9856",
+        "rate_change": "0.19",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240312,
+        "nav": "0.9837",
+        "cnav": "0.9837",
+        "rate_change": "2.81",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240311,
+        "nav": "0.9568",
+        "cnav": "0.9568",
+        "rate_change": "1.42",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240308,
+        "nav": "0.9434",
+        "cnav": "0.9434",
+        "rate_change": "1.14",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240307,
+        "nav": "0.9328",
+        "cnav": "0.9328",
+        "rate_change": "0.82",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240306,
+        "nav": "0.9252",
+        "cnav": "0.9252",
+        "rate_change": "2.90",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240305,
+        "nav": "0.8991",
+        "cnav": "0.8991",
+        "rate_change": "-3.15",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240304,
+        "nav": "0.9283",
+        "cnav": "0.9283",
+        "rate_change": "-0.83",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240301,
+        "nav": "0.9361",
+        "cnav": "0.9361",
+        "rate_change": "1.19",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240229,
+        "nav": "0.9251",
+        "cnav": "0.9251",
+        "rate_change": "5.27",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240228,
+        "nav": "0.8788",
+        "cnav": "0.8788",
+        "rate_change": "-9.41",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240227,
+        "nav": "0.9701",
+        "cnav": "0.9701",
+        "rate_change": "2.92",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240226,
+        "nav": "0.9426",
+        "cnav": "0.9426",
+        "rate_change": "2.69",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240223,
+        "nav": "0.9179",
+        "cnav": "0.9179",
+        "rate_change": "4.07",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240222,
+        "nav": "0.8820",
+        "cnav": "0.8820",
+        "rate_change": "3.87",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240221,
+        "nav": "0.8491",
+        "cnav": "0.8491",
+        "rate_change": "3.41",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240220,
+        "nav": "0.8211",
+        "cnav": "0.8211",
+        "rate_change": "1.21",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240219,
+        "nav": "0.8113",
+        "cnav": "0.8113",
+        "rate_change": "4.56",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240208,
+        "nav": "0.7759",
+        "cnav": "0.7759",
+        "rate_change": "11.30",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240207,
+        "nav": "0.6971",
+        "cnav": "0.6971",
+        "rate_change": "-9.48",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240206,
+        "nav": "0.7701",
+        "cnav": "0.7701",
+        "rate_change": "-4.77",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240205,
+        "nav": "0.8087",
+        "cnav": "0.8087",
+        "rate_change": "-15.51",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240202,
+        "nav": "0.9571",
+        "cnav": "0.9571",
+        "rate_change": "-6.03",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240201,
+        "nav": "1.0185",
+        "cnav": "1.0185",
+        "rate_change": "-2.83",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240131,
+        "nav": "1.0482",
+        "cnav": "1.0482",
+        "rate_change": "-6.40",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240130,
+        "nav": "1.1199",
+        "cnav": "1.1199",
+        "rate_change": "-3.79",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240129,
+        "nav": "1.1640",
+        "cnav": "1.1640",
+        "rate_change": "-4.19",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240126,
+        "nav": "1.2149",
+        "cnav": "1.2149",
+        "rate_change": "0.36",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240125,
+        "nav": "1.2106",
+        "cnav": "1.2106",
+        "rate_change": "5.94",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240124,
+        "nav": "1.1427",
+        "cnav": "1.1427",
+        "rate_change": "2.05",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240123,
+        "nav": "1.1197",
+        "cnav": "1.1197",
+        "rate_change": "-2.24",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240122,
+        "nav": "1.1454",
+        "cnav": "1.1454",
+        "rate_change": "-6.71",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240119,
+        "nav": "1.2278",
+        "cnav": "1.2278",
+        "rate_change": "-1.40",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240118,
+        "nav": "1.2452",
+        "cnav": "1.2452",
+        "rate_change": "-2.08",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240117,
+        "nav": "1.2717",
+        "cnav": "1.2717",
+        "rate_change": "-2.08",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240116,
+        "nav": "1.2987",
+        "cnav": "1.2987",
+        "rate_change": "-0.67",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240115,
+        "nav": "1.3074",
+        "cnav": "1.3074",
+        "rate_change": "-0.47",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240112,
+        "nav": "1.3136",
+        "cnav": "1.3136",
+        "rate_change": "-0.60",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240111,
+        "nav": "1.3215",
+        "cnav": "1.3215",
+        "rate_change": "1.13",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240110,
+        "nav": "1.3067",
+        "cnav": "1.3067",
+        "rate_change": "-1.20",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240109,
+        "nav": "1.3226",
+        "cnav": "1.3226",
+        "rate_change": "1.14",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240108,
+        "nav": "1.3077",
+        "cnav": "1.3077",
+        "rate_change": "-1.31",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240105,
+        "nav": "1.3250",
+        "cnav": "1.3250",
+        "rate_change": "-1.62",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240104,
+        "nav": "1.3468",
+        "cnav": "1.3468",
+        "rate_change": "0.37",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240103,
+        "nav": "1.3418",
+        "cnav": "1.3418",
+        "rate_change": "-0.62",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20240102,
+        "nav": "1.3502",
+        "cnav": "1.3502",
+        "rate_change": "1.79",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231231,
+        "nav": "1.3264",
+        "cnav": "1.3264",
+        "rate_change": "0.00",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231229,
+        "nav": "1.3264",
+        "cnav": "1.3264",
+        "rate_change": "1.99",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231228,
+        "nav": "1.3005",
+        "cnav": "1.3005",
+        "rate_change": "1.77",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231227,
+        "nav": "1.2779",
+        "cnav": "1.2779",
+        "rate_change": "1.01",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231226,
+        "nav": "1.2651",
+        "cnav": "1.2651",
+        "rate_change": "-1.23",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231225,
+        "nav": "1.2809",
+        "cnav": "1.2809",
+        "rate_change": "-1.10",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231222,
+        "nav": "1.2952",
+        "cnav": "1.2952",
+        "rate_change": "-1.86",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231221,
+        "nav": "1.3198",
+        "cnav": "1.3198",
+        "rate_change": "0.39",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231220,
+        "nav": "1.3147",
+        "cnav": "1.3147",
+        "rate_change": "0.21",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231219,
+        "nav": "1.3120",
+        "cnav": "1.3120",
+        "rate_change": "0.55",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231218,
+        "nav": "1.3048",
+        "cnav": "1.3048",
+        "rate_change": "-0.87",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231215,
+        "nav": "1.3163",
+        "cnav": "1.3163",
+        "rate_change": "0.43",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231214,
+        "nav": "1.3107",
+        "cnav": "1.3107",
+        "rate_change": "0.26",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231213,
+        "nav": "1.3073",
+        "cnav": "1.3073",
+        "rate_change": "0.14",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231212,
+        "nav": "1.3055",
+        "cnav": "1.3055",
+        "rate_change": "0.67",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231211,
+        "nav": "1.2968",
+        "cnav": "1.2968",
+        "rate_change": "0.39",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231208,
+        "nav": "1.2918",
+        "cnav": "1.2918",
+        "rate_change": "-2.07",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231207,
+        "nav": "1.3191",
+        "cnav": "1.3191",
+        "rate_change": "-0.44",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231206,
+        "nav": "1.3249",
+        "cnav": "1.3249",
+        "rate_change": "0.82",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231205,
+        "nav": "1.3141",
+        "cnav": "1.3141",
+        "rate_change": "-0.60",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231204,
+        "nav": "1.3220",
+        "cnav": "1.3220",
+        "rate_change": "0.74",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231201,
+        "nav": "1.3123",
+        "cnav": "1.3123",
+        "rate_change": "0.26",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231130,
+        "nav": "1.3089",
+        "cnav": "1.3089",
+        "rate_change": "-0.60",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231129,
+        "nav": "1.3168",
+        "cnav": "1.3168",
+        "rate_change": "-0.08",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231128,
+        "nav": "1.3179",
+        "cnav": "1.3179",
+        "rate_change": "1.43",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231127,
+        "nav": "1.2993",
+        "cnav": "1.2993",
+        "rate_change": "0.15",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231124,
+        "nav": "1.2974",
+        "cnav": "1.2974",
+        "rate_change": "-0.83",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231123,
+        "nav": "1.3082",
+        "cnav": "1.3082",
+        "rate_change": "0.68",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231122,
+        "nav": "1.2993",
+        "cnav": "1.2993",
+        "rate_change": "-0.51",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231121,
+        "nav": "1.3059",
+        "cnav": "1.3059",
+        "rate_change": "-0.32",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231120,
+        "nav": "1.3101",
+        "cnav": "1.3101",
+        "rate_change": "1.27",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231117,
+        "nav": "1.2937",
+        "cnav": "1.2937",
+        "rate_change": "0.69",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231116,
+        "nav": "1.2848",
+        "cnav": "1.2848",
+        "rate_change": "-0.35",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231115,
+        "nav": "1.2893",
+        "cnav": "1.2893",
+        "rate_change": "0.19",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231114,
+        "nav": "1.2868",
+        "cnav": "1.2868",
+        "rate_change": "-0.30",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231113,
+        "nav": "1.2907",
+        "cnav": "1.2907",
+        "rate_change": "1.45",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231110,
+        "nav": "1.2723",
+        "cnav": "1.2723",
+        "rate_change": "0.36",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231109,
+        "nav": "1.2677",
+        "cnav": "1.2677",
+        "rate_change": "-0.41",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231108,
+        "nav": "1.2729",
+        "cnav": "1.2729",
+        "rate_change": "0.13",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231107,
+        "nav": "1.2712",
+        "cnav": "1.2712",
+        "rate_change": "0.38",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231106,
+        "nav": "1.2664",
+        "cnav": "1.2664",
+        "rate_change": "1.12",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231103,
+        "nav": "1.2524",
+        "cnav": "1.2524",
+        "rate_change": "0.59",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231102,
+        "nav": "1.2451",
+        "cnav": "1.2451",
+        "rate_change": "-0.56",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231101,
+        "nav": "1.2521",
+        "cnav": "1.2521",
+        "rate_change": "1.10",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231031,
+        "nav": "1.2385",
+        "cnav": "1.2385",
+        "rate_change": "-0.11",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231030,
+        "nav": "1.2399",
+        "cnav": "1.2399",
+        "rate_change": "0.79",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231027,
+        "nav": "1.2302",
+        "cnav": "1.2302",
+        "rate_change": "0.79",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231026,
+        "nav": "1.2206",
+        "cnav": "1.2206",
+        "rate_change": "-0.30",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231025,
+        "nav": "1.2243",
+        "cnav": "1.2243",
+        "rate_change": "2.05",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231024,
+        "nav": "1.1997",
+        "cnav": "1.1997",
+        "rate_change": "4.30",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231023,
+        "nav": "1.1502",
+        "cnav": "1.1502",
+        "rate_change": "-2.57",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231020,
+        "nav": "1.1805",
+        "cnav": "1.1805",
+        "rate_change": "-0.61",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231019,
+        "nav": "1.1878",
+        "cnav": "1.1878",
+        "rate_change": "-0.21",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231018,
+        "nav": "1.1903",
+        "cnav": "1.1903",
+        "rate_change": "-1.73",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231017,
+        "nav": "1.2113",
+        "cnav": "1.2113",
+        "rate_change": "0.24",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231016,
+        "nav": "1.2084",
+        "cnav": "1.2084",
+        "rate_change": "0.12",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231013,
+        "nav": "1.2070",
+        "cnav": "1.2070",
+        "rate_change": "-1.57",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231012,
+        "nav": "1.2262",
+        "cnav": "1.2262",
+        "rate_change": "-0.07",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231011,
+        "nav": "1.2270",
+        "cnav": "1.2270",
+        "rate_change": "-0.28",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231010,
+        "nav": "1.2304",
+        "cnav": "1.2304",
+        "rate_change": "-0.47",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20231009,
+        "nav": "1.2362",
+        "cnav": "1.2362",
+        "rate_change": "-0.83",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230928,
+        "nav": "1.2466",
+        "cnav": "1.2466",
+        "rate_change": "1.32",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230927,
+        "nav": "1.2303",
+        "cnav": "1.2303",
+        "rate_change": "0.73",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230926,
+        "nav": "1.2214",
+        "cnav": "1.2214",
+        "rate_change": "0.06",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230925,
+        "nav": "1.2207",
+        "cnav": "1.2207",
+        "rate_change": "-0.16",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230922,
+        "nav": "1.2226",
+        "cnav": "1.2226",
+        "rate_change": "2.25",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230921,
+        "nav": "1.1957",
+        "cnav": "1.1957",
+        "rate_change": "-0.35",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230920,
+        "nav": "1.1999",
+        "cnav": "1.1999",
+        "rate_change": "-0.34",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230919,
+        "nav": "1.2040",
+        "cnav": "1.2040",
+        "rate_change": "-1.21",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230918,
+        "nav": "1.2187",
+        "cnav": "1.2187",
+        "rate_change": "1.90",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230915,
+        "nav": "1.1960",
+        "cnav": "1.1960",
+        "rate_change": "-0.13",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230914,
+        "nav": "1.1976",
+        "cnav": "1.1976",
+        "rate_change": "-0.98",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230913,
+        "nav": "1.2095",
+        "cnav": "1.2095",
+        "rate_change": "-0.73",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230912,
+        "nav": "1.2184",
+        "cnav": "1.2184",
+        "rate_change": "-0.65",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230911,
+        "nav": "1.2264",
+        "cnav": "1.2264",
+        "rate_change": "0.42",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230908,
+        "nav": "1.2213",
+        "cnav": "1.2213",
+        "rate_change": "0.19",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230907,
+        "nav": "1.2190",
+        "cnav": "1.2190",
+        "rate_change": "-1.20",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230906,
+        "nav": "1.2338",
+        "cnav": "1.2338",
+        "rate_change": "0.68",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230905,
+        "nav": "1.2255",
+        "cnav": "1.2255",
+        "rate_change": "-0.15",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230904,
+        "nav": "1.2274",
+        "cnav": "1.2274",
+        "rate_change": "1.51",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230901,
+        "nav": "1.2091",
+        "cnav": "1.2091",
+        "rate_change": "-0.09",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230831,
+        "nav": "1.2102",
+        "cnav": "1.2102",
+        "rate_change": "0.01",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230830,
+        "nav": "1.2101",
+        "cnav": "1.2101",
+        "rate_change": "1.45",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230829,
+        "nav": "1.1928",
+        "cnav": "1.1928",
+        "rate_change": "5.03",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230828,
+        "nav": "1.1357",
+        "cnav": "1.1357",
+        "rate_change": "1.11",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230825,
+        "nav": "1.1232",
+        "cnav": "1.1232",
+        "rate_change": "-1.65",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230824,
+        "nav": "1.1421",
+        "cnav": "1.1421",
+        "rate_change": "-0.93",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230823,
+        "nav": "1.1528",
+        "cnav": "1.1528",
+        "rate_change": "-0.73",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230822,
+        "nav": "1.1613",
+        "cnav": "1.1613",
+        "rate_change": "-0.97",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230821,
+        "nav": "1.1727",
+        "cnav": "1.1727",
+        "rate_change": "0.31",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230818,
+        "nav": "1.1691",
+        "cnav": "1.1691",
+        "rate_change": "-0.26",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230817,
+        "nav": "1.1722",
+        "cnav": "1.1722",
+        "rate_change": "2.12",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230816,
+        "nav": "1.1479",
+        "cnav": "1.1479",
+        "rate_change": "-0.67",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230815,
+        "nav": "1.1557",
+        "cnav": "1.1557",
+        "rate_change": "0.14",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230814,
+        "nav": "1.1541",
+        "cnav": "1.1541",
+        "rate_change": "0.58",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230811,
+        "nav": "1.1475",
+        "cnav": "1.1475",
+        "rate_change": "-1.90",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230810,
+        "nav": "1.1697",
+        "cnav": "1.1697",
+        "rate_change": "0.29",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230809,
+        "nav": "1.1663",
+        "cnav": "1.1663",
+        "rate_change": "-0.88",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230808,
+        "nav": "1.1766",
+        "cnav": "1.1766",
+        "rate_change": "-0.36",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230807,
+        "nav": "1.1809",
+        "cnav": "1.1809",
+        "rate_change": "-0.31",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230804,
+        "nav": "1.1846",
+        "cnav": "1.1846",
+        "rate_change": "0.26",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230803,
+        "nav": "1.1815",
+        "cnav": "1.1815",
+        "rate_change": "-0.04",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230802,
+        "nav": "1.1820",
+        "cnav": "1.1820",
+        "rate_change": "-0.43",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230801,
+        "nav": "1.1871",
+        "cnav": "1.1871",
+        "rate_change": "-0.71",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230731,
+        "nav": "1.1956",
+        "cnav": "1.1956",
+        "rate_change": "0.68",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230728,
+        "nav": "1.1875",
+        "cnav": "1.1875",
+        "rate_change": "0.39",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230727,
+        "nav": "1.1829",
+        "cnav": "1.1829",
+        "rate_change": "-1.14",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230726,
+        "nav": "1.1965",
+        "cnav": "1.1965",
+        "rate_change": "-0.74",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230725,
+        "nav": "1.2054",
+        "cnav": "1.2054",
+        "rate_change": "1.21",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230724,
+        "nav": "1.1910",
+        "cnav": "1.1910",
+        "rate_change": "-0.10",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230721,
+        "nav": "1.1922",
+        "cnav": "1.1922",
+        "rate_change": "-0.46",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230720,
+        "nav": "1.1977",
+        "cnav": "1.1977",
+        "rate_change": "-1.23",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230719,
+        "nav": "1.2126",
+        "cnav": "1.2126",
+        "rate_change": "-0.24",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230718,
+        "nav": "1.2155",
+        "cnav": "1.2155",
+        "rate_change": "-0.71",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230717,
+        "nav": "1.2242",
+        "cnav": "1.2242",
+        "rate_change": "-0.66",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230714,
+        "nav": "1.2323",
+        "cnav": "1.2323",
+        "rate_change": "-0.58",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230713,
+        "nav": "1.2395",
+        "cnav": "1.2395",
+        "rate_change": "0.84",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230712,
+        "nav": "1.2292",
+        "cnav": "1.2292",
+        "rate_change": "-1.50",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230711,
+        "nav": "1.2479",
+        "cnav": "1.2479",
+        "rate_change": "1.22",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230710,
+        "nav": "1.2329",
+        "cnav": "1.2329",
+        "rate_change": "0.25",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230707,
+        "nav": "1.2298",
+        "cnav": "1.2298",
+        "rate_change": "-0.67",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230706,
+        "nav": "1.2381",
+        "cnav": "1.2381",
+        "rate_change": "-0.27",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230705,
+        "nav": "1.2414",
+        "cnav": "1.2414",
+        "rate_change": "-0.96",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230704,
+        "nav": "1.2534",
+        "cnav": "1.2534",
+        "rate_change": "0.53",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230703,
+        "nav": "1.2468",
+        "cnav": "1.2468",
+        "rate_change": "0.31",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230630,
+        "nav": "1.2430",
+        "cnav": "1.2430",
+        "rate_change": "0.69",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230629,
+        "nav": "1.2345",
+        "cnav": "1.2345",
+        "rate_change": "0.58",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230628,
+        "nav": "1.2274",
+        "cnav": "1.2274",
+        "rate_change": "0.01",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230627,
+        "nav": "1.2273",
+        "cnav": "1.2273",
+        "rate_change": "1.63",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230626,
+        "nav": "1.2076",
+        "cnav": "1.2076",
+        "rate_change": "-1.46",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230621,
+        "nav": "1.2255",
+        "cnav": "1.2255",
+        "rate_change": "-1.59",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230620,
+        "nav": "1.2453",
+        "cnav": "1.2453",
+        "rate_change": "-0.10",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230619,
+        "nav": "1.2466",
+        "cnav": "1.2466",
+        "rate_change": "-0.10",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230616,
+        "nav": "1.2479",
+        "cnav": "1.2479",
+        "rate_change": "0.32",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230615,
+        "nav": "1.2439",
+        "cnav": "1.2439",
+        "rate_change": "1.34",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230614,
+        "nav": "1.2275",
+        "cnav": "1.2275",
+        "rate_change": "0.07",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230613,
+        "nav": "1.2266",
+        "cnav": "1.2266",
+        "rate_change": "0.25",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230612,
+        "nav": "1.2236",
+        "cnav": "1.2236",
+        "rate_change": "0.98",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230609,
+        "nav": "1.2117",
+        "cnav": "1.2117",
+        "rate_change": "0.38",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230608,
+        "nav": "1.2071",
+        "cnav": "1.2071",
+        "rate_change": "-1.02",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230607,
+        "nav": "1.2195",
+        "cnav": "1.2195",
+        "rate_change": "0.49",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230606,
+        "nav": "1.2135",
+        "cnav": "1.2135",
+        "rate_change": "-1.66",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230605,
+        "nav": "1.2340",
+        "cnav": "1.2340",
+        "rate_change": "0.55",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230602,
+        "nav": "1.2272",
+        "cnav": "1.2272",
+        "rate_change": "0.28",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230601,
+        "nav": "1.2238",
+        "cnav": "1.2238",
+        "rate_change": "0.02",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230531,
+        "nav": "1.2236",
+        "cnav": "1.2236",
+        "rate_change": "0.34",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230530,
+        "nav": "1.2195",
+        "cnav": "1.2195",
+        "rate_change": "0.75",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230529,
+        "nav": "1.2104",
+        "cnav": "1.2104",
+        "rate_change": "-0.39",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230526,
+        "nav": "1.2152",
+        "cnav": "1.2152",
+        "rate_change": "0.30",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230525,
+        "nav": "1.2116",
+        "cnav": "1.2116",
+        "rate_change": "0.06",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230524,
+        "nav": "1.2109",
+        "cnav": "1.2109",
+        "rate_change": "0.39",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230523,
+        "nav": "1.2062",
+        "cnav": "1.2062",
+        "rate_change": "-1.03",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230522,
+        "nav": "1.2187",
+        "cnav": "1.2187",
+        "rate_change": "0.69",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230519,
+        "nav": "1.2103",
+        "cnav": "1.2103",
+        "rate_change": "0.80",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230518,
+        "nav": "1.2007",
+        "cnav": "1.2007",
+        "rate_change": "0.79",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230517,
+        "nav": "1.1913",
+        "cnav": "1.1913",
+        "rate_change": "0.88",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230516,
+        "nav": "1.1809",
+        "cnav": "1.1809",
+        "rate_change": "-0.08",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230515,
+        "nav": "1.1818",
+        "cnav": "1.1818",
+        "rate_change": "1.41",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230512,
+        "nav": "1.1654",
+        "cnav": "1.1654",
+        "rate_change": "-0.86",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230511,
+        "nav": "1.1755",
+        "cnav": "1.1755",
+        "rate_change": "0.38",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230510,
+        "nav": "1.1710",
+        "cnav": "1.1710",
+        "rate_change": "0.54",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230509,
+        "nav": "1.1647",
+        "cnav": "1.1647",
+        "rate_change": "-1.70",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230508,
+        "nav": "1.1848",
+        "cnav": "1.1848",
+        "rate_change": "0.03",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230505,
+        "nav": "1.1844",
+        "cnav": "1.1844",
+        "rate_change": "-1.50",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230504,
+        "nav": "1.2024",
+        "cnav": "1.2024",
+        "rate_change": "-0.68",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230428,
+        "nav": "1.2106",
+        "cnav": "1.2106",
+        "rate_change": "-0.18",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230427,
+        "nav": "1.2128",
+        "cnav": "1.2128",
+        "rate_change": "0.00",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230426,
+        "nav": "1.2128",
+        "cnav": "1.2128",
+        "rate_change": "1.34",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230425,
+        "nav": "1.1968",
+        "cnav": "1.1968",
+        "rate_change": "-1.12",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230424,
+        "nav": "1.2103",
+        "cnav": "1.2103",
+        "rate_change": "-0.30",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230421,
+        "nav": "1.2139",
+        "cnav": "1.2139",
+        "rate_change": "-2.44",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230420,
+        "nav": "1.2442",
+        "cnav": "1.2442",
+        "rate_change": "-0.91",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230419,
+        "nav": "1.2556",
+        "cnav": "1.2556",
+        "rate_change": "-0.55",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230418,
+        "nav": "1.2626",
+        "cnav": "1.2626",
+        "rate_change": "0.33",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230417,
+        "nav": "1.2584",
+        "cnav": "1.2584",
+        "rate_change": "0.63",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230414,
+        "nav": "1.2505",
+        "cnav": "1.2505",
+        "rate_change": "0.18",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230413,
+        "nav": "1.2482",
+        "cnav": "1.2482",
+        "rate_change": "-0.28",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230412,
+        "nav": "1.2517",
+        "cnav": "1.2517",
+        "rate_change": "0.67",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230411,
+        "nav": "1.2434",
+        "cnav": "1.2434",
+        "rate_change": "-0.34",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230410,
+        "nav": "1.2476",
+        "cnav": "1.2476",
+        "rate_change": "-1.02",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230407,
+        "nav": "1.2605",
+        "cnav": "1.2605",
+        "rate_change": "-0.72",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230406,
+        "nav": "1.2696",
+        "cnav": "1.2696",
+        "rate_change": "-1.15",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230404,
+        "nav": "1.2844",
+        "cnav": "1.2844",
+        "rate_change": "-0.02",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230403,
+        "nav": "1.2847",
+        "cnav": "1.2847",
+        "rate_change": "0.12",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230331,
+        "nav": "1.2831",
+        "cnav": "1.2831",
+        "rate_change": "-0.36",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230330,
+        "nav": "1.2878",
+        "cnav": "1.2878",
+        "rate_change": "2.57",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230329,
+        "nav": "1.2555",
+        "cnav": "1.2555",
+        "rate_change": "-0.59",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230328,
+        "nav": "1.2629",
+        "cnav": "1.2629",
+        "rate_change": "-0.53",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230327,
+        "nav": "1.2696",
+        "cnav": "1.2696",
+        "rate_change": "0.61",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230324,
+        "nav": "1.2619",
+        "cnav": "1.2619",
+        "rate_change": "-1.00",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230323,
+        "nav": "1.2747",
+        "cnav": "1.2747",
+        "rate_change": "0.81",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230322,
+        "nav": "1.2644",
+        "cnav": "1.2644",
+        "rate_change": "0.82",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230321,
+        "nav": "1.2541",
+        "cnav": "1.2541",
+        "rate_change": "-0.12",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230320,
+        "nav": "1.2556",
+        "cnav": "1.2556",
+        "rate_change": "-0.35",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230317,
+        "nav": "1.2600",
+        "cnav": "1.2600",
+        "rate_change": "0.73",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230316,
+        "nav": "1.2509",
+        "cnav": "1.2509",
+        "rate_change": "-2.92",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230315,
+        "nav": "1.2885",
+        "cnav": "1.2885",
+        "rate_change": "0.07",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230314,
+        "nav": "1.2876",
+        "cnav": "1.2876",
+        "rate_change": "-1.20",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230313,
+        "nav": "1.3033",
+        "cnav": "1.3033",
+        "rate_change": "1.03",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230310,
+        "nav": "1.2900",
+        "cnav": "1.2900",
+        "rate_change": "-1.86",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230309,
+        "nav": "1.3144",
+        "cnav": "1.3144",
+        "rate_change": "-0.20",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230308,
+        "nav": "1.3170",
+        "cnav": "1.3170",
+        "rate_change": "-0.63",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230307,
+        "nav": "1.3254",
+        "cnav": "1.3254",
+        "rate_change": "0.60",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230306,
+        "nav": "1.3175",
+        "cnav": "1.3175",
+        "rate_change": "-2.02",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230303,
+        "nav": "1.3447",
+        "cnav": "1.3447",
+        "rate_change": "0.10",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230302,
+        "nav": "1.3434",
+        "cnav": "1.3434",
+        "rate_change": "0.20",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230301,
+        "nav": "1.3407",
+        "cnav": "1.3407",
+        "rate_change": "0.33",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230228,
+        "nav": "1.3363",
+        "cnav": "1.3363",
+        "rate_change": "-0.71",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230227,
+        "nav": "1.3459",
+        "cnav": "1.3459",
+        "rate_change": "0.48",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230224,
+        "nav": "1.3395",
+        "cnav": "1.3395",
+        "rate_change": "-0.39",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230223,
+        "nav": "1.3448",
+        "cnav": "1.3448",
+        "rate_change": "0.49",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230222,
+        "nav": "1.3382",
+        "cnav": "1.3382",
+        "rate_change": "0.52",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230221,
+        "nav": "1.3313",
+        "cnav": "1.3313",
+        "rate_change": "2.42",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230220,
+        "nav": "1.2998",
+        "cnav": "1.2998",
+        "rate_change": "2.40",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230217,
+        "nav": "1.2693",
+        "cnav": "1.2693",
+        "rate_change": "1.54",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230216,
+        "nav": "1.2501",
+        "cnav": "1.2501",
+        "rate_change": "-1.27",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230215,
+        "nav": "1.2662",
+        "cnav": "1.2662",
+        "rate_change": "-0.74",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230214,
+        "nav": "1.2756",
+        "cnav": "1.2756",
+        "rate_change": "0.25",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230213,
+        "nav": "1.2724",
+        "cnav": "1.2724",
+        "rate_change": "-0.31",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230210,
+        "nav": "1.2763",
+        "cnav": "1.2763",
+        "rate_change": "-1.18",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230209,
+        "nav": "1.2915",
+        "cnav": "1.2915",
+        "rate_change": "0.33",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230208,
+        "nav": "1.2872",
+        "cnav": "1.2872",
+        "rate_change": "-0.74",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230207,
+        "nav": "1.2968",
+        "cnav": "1.2968",
+        "rate_change": "0.28",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230206,
+        "nav": "1.2932",
+        "cnav": "1.2932",
+        "rate_change": "-0.51",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230203,
+        "nav": "1.2998",
+        "cnav": "1.2998",
+        "rate_change": "-1.00",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230202,
+        "nav": "1.3129",
+        "cnav": "1.3129",
+        "rate_change": "0.69",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230201,
+        "nav": "1.3039",
+        "cnav": "1.3039",
+        "rate_change": "0.17",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230131,
+        "nav": "1.3017",
+        "cnav": "1.3017",
+        "rate_change": "0.21",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230130,
+        "nav": "1.2990",
+        "cnav": "1.2990",
+        "rate_change": "-1.82",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230120,
+        "nav": "1.3231",
+        "cnav": "1.3231",
+        "rate_change": "1.68",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230119,
+        "nav": "1.3012",
+        "cnav": "1.3012",
+        "rate_change": "0.83",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230118,
+        "nav": "1.2905",
+        "cnav": "1.2905",
+        "rate_change": "0.55",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230117,
+        "nav": "1.2834",
+        "cnav": "1.2834",
+        "rate_change": "-0.62",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230116,
+        "nav": "1.2914",
+        "cnav": "1.2914",
+        "rate_change": "-0.24",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230113,
+        "nav": "1.2945",
+        "cnav": "1.2945",
+        "rate_change": "0.25",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230112,
+        "nav": "1.2913",
+        "cnav": "1.2913",
+        "rate_change": "-0.16",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230111,
+        "nav": "1.2934",
+        "cnav": "1.2934",
+        "rate_change": "3.51",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230110,
+        "nav": "1.2496",
+        "cnav": "1.2496",
+        "rate_change": "-0.82",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230109,
+        "nav": "1.2599",
+        "cnav": "1.2599",
+        "rate_change": "0.75",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230106,
+        "nav": "1.2505",
+        "cnav": "1.2505",
+        "rate_change": "0.77",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230105,
+        "nav": "1.2410",
+        "cnav": "1.2410",
+        "rate_change": "0.46",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230104,
+        "nav": "1.2353",
+        "cnav": "1.2353",
+        "rate_change": "-1.84",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20230103,
+        "nav": "1.2585",
+        "cnav": "1.2585",
+        "rate_change": "0.74",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221231,
+        "nav": "1.2493",
+        "cnav": "1.2493",
+        "rate_change": "0.00",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221230,
+        "nav": "1.2493",
+        "cnav": "1.2493",
+        "rate_change": "0.09",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221229,
+        "nav": "1.2482",
+        "cnav": "1.2482",
+        "rate_change": "-1.77",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221228,
+        "nav": "1.2707",
+        "cnav": "1.2707",
+        "rate_change": "-0.43",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221227,
+        "nav": "1.2762",
+        "cnav": "1.2762",
+        "rate_change": "1.46",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221226,
+        "nav": "1.2578",
+        "cnav": "1.2578",
+        "rate_change": "0.35",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221223,
+        "nav": "1.2534",
+        "cnav": "1.2534",
+        "rate_change": "0.06",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221222,
+        "nav": "1.2527",
+        "cnav": "1.2527",
+        "rate_change": "-1.89",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221221,
+        "nav": "1.2768",
+        "cnav": "1.2768",
+        "rate_change": "-0.33",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221220,
+        "nav": "1.2810",
+        "cnav": "1.2810",
+        "rate_change": "-0.57",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221219,
+        "nav": "1.2884",
+        "cnav": "1.2884",
+        "rate_change": "-2.10",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221216,
+        "nav": "1.3161",
+        "cnav": "1.3161",
+        "rate_change": "0.53",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221215,
+        "nav": "1.3091",
+        "cnav": "1.3091",
+        "rate_change": "-1.42",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221214,
+        "nav": "1.3280",
+        "cnav": "1.3280",
+        "rate_change": "0.79",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221213,
+        "nav": "1.3176",
+        "cnav": "1.3176",
+        "rate_change": "0.39",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221212,
+        "nav": "1.3125",
+        "cnav": "1.3125",
+        "rate_change": "-2.13",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221209,
+        "nav": "1.3411",
+        "cnav": "1.3411",
+        "rate_change": "0.66",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221208,
+        "nav": "1.3323",
+        "cnav": "1.3323",
+        "rate_change": "-0.34",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221207,
+        "nav": "1.3368",
+        "cnav": "1.3368",
+        "rate_change": "-1.71",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221206,
+        "nav": "1.3600",
+        "cnav": "1.3600",
+        "rate_change": "-0.15",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221205,
+        "nav": "1.3620",
+        "cnav": "1.3620",
+        "rate_change": "1.38",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221202,
+        "nav": "1.3434",
+        "cnav": "1.3434",
+        "rate_change": "-0.99",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221201,
+        "nav": "1.3569",
+        "cnav": "1.3569",
+        "rate_change": "-0.88",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221130,
+        "nav": "1.3690",
+        "cnav": "1.3690",
+        "rate_change": "0.89",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221129,
+        "nav": "1.3569",
+        "cnav": "1.3569",
+        "rate_change": "1.51",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221128,
+        "nav": "1.3367",
+        "cnav": "1.3367",
+        "rate_change": "-1.07",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221125,
+        "nav": "1.3511",
+        "cnav": "1.3511",
+        "rate_change": "1.85",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221124,
+        "nav": "1.3266",
+        "cnav": "1.3266",
+        "rate_change": "0.52",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221123,
+        "nav": "1.3198",
+        "cnav": "1.3198",
+        "rate_change": "0.94",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221122,
+        "nav": "1.3075",
+        "cnav": "1.3075",
+        "rate_change": "0.61",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221121,
+        "nav": "1.2996",
+        "cnav": "1.2996",
+        "rate_change": "-0.54",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221118,
+        "nav": "1.3066",
+        "cnav": "1.3066",
+        "rate_change": "-0.86",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221117,
+        "nav": "1.3180",
+        "cnav": "1.3180",
+        "rate_change": "-3.08",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221116,
+        "nav": "1.3599",
+        "cnav": "1.3599",
+        "rate_change": "0.53",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221115,
+        "nav": "1.3527",
+        "cnav": "1.3527",
+        "rate_change": "0.53",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221114,
+        "nav": "1.3456",
+        "cnav": "1.3456",
+        "rate_change": "-2.11",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221111,
+        "nav": "1.3746",
+        "cnav": "1.3746",
+        "rate_change": "2.05",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221110,
+        "nav": "1.3470",
+        "cnav": "1.3470",
+        "rate_change": "0.03",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221109,
+        "nav": "1.3466",
+        "cnav": "1.3466",
+        "rate_change": "-1.43",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221108,
+        "nav": "1.3661",
+        "cnav": "1.3661",
+        "rate_change": "-0.41",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221107,
+        "nav": "1.3717",
+        "cnav": "1.3717",
+        "rate_change": "1.31",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221104,
+        "nav": "1.3539",
+        "cnav": "1.3539",
+        "rate_change": "3.02",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221103,
+        "nav": "1.3142",
+        "cnav": "1.3142",
+        "rate_change": "-0.54",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221102,
+        "nav": "1.3213",
+        "cnav": "1.3213",
+        "rate_change": "0.19",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221101,
+        "nav": "1.3188",
+        "cnav": "1.3188",
+        "rate_change": "-0.05",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221031,
+        "nav": "1.3195",
+        "cnav": "1.3195",
+        "rate_change": "-2.77",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221028,
+        "nav": "1.3571",
+        "cnav": "1.3571",
+        "rate_change": "-0.55",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221027,
+        "nav": "1.3646",
+        "cnav": "1.3646",
+        "rate_change": "0.44",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221026,
+        "nav": "1.3586",
+        "cnav": "1.3586",
+        "rate_change": "-1.07",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221025,
+        "nav": "1.3733",
+        "cnav": "1.3733",
+        "rate_change": "-0.88",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221024,
+        "nav": "1.3855",
+        "cnav": "1.3855",
+        "rate_change": "-1.81",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221021,
+        "nav": "1.4111",
+        "cnav": "1.4111",
+        "rate_change": "0.21",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221020,
+        "nav": "1.4081",
+        "cnav": "1.4081",
+        "rate_change": "-1.30",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221019,
+        "nav": "1.4267",
+        "cnav": "1.4267",
+        "rate_change": "-0.24",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221018,
+        "nav": "1.4302",
+        "cnav": "1.4302",
+        "rate_change": "-0.23",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221017,
+        "nav": "1.4335",
+        "cnav": "1.4335",
+        "rate_change": "-0.77",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221014,
+        "nav": "1.4446",
+        "cnav": "1.4446",
+        "rate_change": "0.74",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221013,
+        "nav": "1.4340",
+        "cnav": "1.4340",
+        "rate_change": "-3.49",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221012,
+        "nav": "1.4858",
+        "cnav": "1.4858",
+        "rate_change": "0.45",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221011,
+        "nav": "1.4791",
+        "cnav": "1.4791",
+        "rate_change": "-0.26",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20221010,
+        "nav": "1.4830",
+        "cnav": "1.4830",
+        "rate_change": "1.30",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220930,
+        "nav": "1.4639",
+        "cnav": "1.4639",
+        "rate_change": "0.82",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220929,
+        "nav": "1.4520",
+        "cnav": "1.4520",
+        "rate_change": "0.15",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220928,
+        "nav": "1.4498",
+        "cnav": "1.4498",
+        "rate_change": "-0.10",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220927,
+        "nav": "1.4512",
+        "cnav": "1.4512",
+        "rate_change": "-0.08",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220926,
+        "nav": "1.4524",
+        "cnav": "1.4524",
+        "rate_change": "-0.83",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220923,
+        "nav": "1.4645",
+        "cnav": "1.4645",
+        "rate_change": "0.21",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220922,
+        "nav": "1.4614",
+        "cnav": "1.4614",
+        "rate_change": "0.26",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220921,
+        "nav": "1.4576",
+        "cnav": "1.4576",
+        "rate_change": "0.10",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220920,
+        "nav": "1.4561",
+        "cnav": "1.4561",
+        "rate_change": "0.03",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220919,
+        "nav": "1.4557",
+        "cnav": "1.4557",
+        "rate_change": "0.03",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220916,
+        "nav": "1.4552",
+        "cnav": "1.4552",
+        "rate_change": "-0.27",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220915,
+        "nav": "1.4592",
+        "cnav": "1.4592",
+        "rate_change": "0.01",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220914,
+        "nav": "1.4591",
+        "cnav": "1.4591",
+        "rate_change": "-0.07",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220913,
+        "nav": "1.4601",
+        "cnav": "1.4601",
+        "rate_change": "0.01",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220909,
+        "nav": "1.4600",
+        "cnav": "1.4600",
+        "rate_change": "0.05",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220908,
+        "nav": "1.4593",
+        "cnav": "1.4593",
+        "rate_change": "-0.04",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220907,
+        "nav": "1.4599",
+        "cnav": "1.4599",
+        "rate_change": "-0.08",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220906,
+        "nav": "1.4610",
+        "cnav": "1.4610",
+        "rate_change": "0.02",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220905,
+        "nav": "1.4607",
+        "cnav": "1.4607",
+        "rate_change": "0.26",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220902,
+        "nav": "1.4569",
+        "cnav": "1.4569",
+        "rate_change": "0.00",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220901,
+        "nav": "1.4569",
+        "cnav": "1.4569",
+        "rate_change": "0.03",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220831,
+        "nav": "1.4565",
+        "cnav": "1.4565",
+        "rate_change": "-0.07",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220830,
+        "nav": "1.4575",
+        "cnav": "1.4575",
+        "rate_change": "0.03",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220829,
+        "nav": "1.4570",
+        "cnav": "1.4570",
+        "rate_change": "0.06",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220826,
+        "nav": "1.4561",
+        "cnav": "1.4561",
+        "rate_change": "-0.14",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220825,
+        "nav": "1.4582",
+        "cnav": "1.4582",
+        "rate_change": "0.28",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220824,
+        "nav": "1.4541",
+        "cnav": "1.4541",
+        "rate_change": "-0.37",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220823,
+        "nav": "1.4595",
+        "cnav": "1.4595",
+        "rate_change": "0.04",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220822,
+        "nav": "1.4589",
+        "cnav": "1.4589",
+        "rate_change": "-0.03",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220819,
+        "nav": "1.4593",
+        "cnav": "1.4593",
+        "rate_change": "-0.46",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220818,
+        "nav": "1.4660",
+        "cnav": "1.4660",
+        "rate_change": "0.10",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220817,
+        "nav": "1.4645",
+        "cnav": "1.4645",
+        "rate_change": "0.09",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220816,
+        "nav": "1.4632",
+        "cnav": "1.4632",
+        "rate_change": "0.04",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220815,
+        "nav": "1.4626",
+        "cnav": "1.4626",
+        "rate_change": "0.03",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220812,
+        "nav": "1.4622",
+        "cnav": "1.4622",
+        "rate_change": "0.01",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220811,
+        "nav": "1.4620",
+        "cnav": "1.4620",
+        "rate_change": "0.16",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220810,
+        "nav": "1.4596",
+        "cnav": "1.4596",
+        "rate_change": "-0.06",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220809,
+        "nav": "1.4605",
+        "cnav": "1.4605",
+        "rate_change": "0.04",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220808,
+        "nav": "1.4599",
+        "cnav": "1.4599",
+        "rate_change": "0.02",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220805,
+        "nav": "1.4596",
+        "cnav": "1.4596",
+        "rate_change": "0.05",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220804,
+        "nav": "1.4588",
+        "cnav": "1.4588",
+        "rate_change": "0.04",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220803,
+        "nav": "1.4582",
+        "cnav": "1.4582",
+        "rate_change": "-0.13",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220802,
+        "nav": "1.4601",
+        "cnav": "1.4601",
+        "rate_change": "-0.13",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220801,
+        "nav": "1.4620",
+        "cnav": "1.4620",
+        "rate_change": "0.01",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220729,
+        "nav": "1.4619",
+        "cnav": "1.4619",
+        "rate_change": "-0.22",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220728,
+        "nav": "1.4651",
+        "cnav": "1.4651",
+        "rate_change": "0.06",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220727,
+        "nav": "1.4642",
+        "cnav": "1.4642",
+        "rate_change": "0.00",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220726,
+        "nav": "1.4642",
+        "cnav": "1.4642",
+        "rate_change": "-0.02",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220725,
+        "nav": "1.4645",
+        "cnav": "1.4645",
+        "rate_change": "-0.10",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220722,
+        "nav": "1.4659",
+        "cnav": "1.4659",
+        "rate_change": "-0.32",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220721,
+        "nav": "1.4706",
+        "cnav": "1.4706",
+        "rate_change": "-0.40",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220720,
+        "nav": "1.4765",
+        "cnav": "1.4765",
+        "rate_change": "0.22",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220719,
+        "nav": "1.4733",
+        "cnav": "1.4733",
+        "rate_change": "-0.61",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220718,
+        "nav": "1.4824",
+        "cnav": "1.4824",
+        "rate_change": "0.42",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220715,
+        "nav": "1.4762",
+        "cnav": "1.4762",
+        "rate_change": "-0.42",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220714,
+        "nav": "1.4825",
+        "cnav": "1.4825",
+        "rate_change": "-0.10",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220713,
+        "nav": "1.4840",
+        "cnav": "1.4840",
+        "rate_change": "-0.02",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220712,
+        "nav": "1.4843",
+        "cnav": "1.4843",
+        "rate_change": "-0.70",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220711,
+        "nav": "1.4947",
+        "cnav": "1.4947",
+        "rate_change": "-0.52",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220708,
+        "nav": "1.5025",
+        "cnav": "1.5025",
+        "rate_change": "0.20",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220707,
+        "nav": "1.4995",
+        "cnav": "1.4995",
+        "rate_change": "0.58",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220706,
+        "nav": "1.4908",
+        "cnav": "1.4908",
+        "rate_change": "-0.55",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220705,
+        "nav": "1.4990",
+        "cnav": "1.4990",
+        "rate_change": "-0.06",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220704,
+        "nav": "1.4999",
+        "cnav": "1.4999",
+        "rate_change": "0.09",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220701,
+        "nav": "1.4986",
+        "cnav": "1.4986",
+        "rate_change": "-0.03",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220630,
+        "nav": "1.4991",
+        "cnav": "1.4991",
+        "rate_change": "0.46",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220629,
+        "nav": "1.4922",
+        "cnav": "1.4922",
+        "rate_change": "-1.78",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220628,
+        "nav": "1.5193",
+        "cnav": "1.5193",
+        "rate_change": "0.35",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220627,
+        "nav": "1.5140",
+        "cnav": "1.5140",
+        "rate_change": "0.45",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220624,
+        "nav": "1.5072",
+        "cnav": "1.5072",
+        "rate_change": "0.17",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220623,
+        "nav": "1.5047",
+        "cnav": "1.5047",
+        "rate_change": "0.19",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220622,
+        "nav": "1.5019",
+        "cnav": "1.5019",
+        "rate_change": "-0.71",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220621,
+        "nav": "1.5127",
+        "cnav": "1.5127",
+        "rate_change": "-0.26",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220620,
+        "nav": "1.5167",
+        "cnav": "1.5167",
+        "rate_change": "0.29",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220617,
+        "nav": "1.5123",
+        "cnav": "1.5123",
+        "rate_change": "1.07",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220616,
+        "nav": "1.4963",
+        "cnav": "1.4963",
+        "rate_change": "0.70",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220615,
+        "nav": "1.4859",
+        "cnav": "1.4859",
+        "rate_change": "-0.02",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220614,
+        "nav": "1.4862",
+        "cnav": "1.4862",
+        "rate_change": "0.01",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220613,
+        "nav": "1.4860",
+        "cnav": "1.4860",
+        "rate_change": "-0.49",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220610,
+        "nav": "1.4933",
+        "cnav": "1.4933",
+        "rate_change": "1.17",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220609,
+        "nav": "1.4760",
+        "cnav": "1.4760",
+        "rate_change": "-1.30",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220608,
+        "nav": "1.4954",
+        "cnav": "1.4954",
+        "rate_change": "0.28",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220607,
+        "nav": "1.4912",
+        "cnav": "1.4912",
+        "rate_change": "-0.69",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220606,
+        "nav": "1.5016",
+        "cnav": "1.5016",
+        "rate_change": "1.29",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220602,
+        "nav": "1.4825",
+        "cnav": "1.4825",
+        "rate_change": "0.75",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220601,
+        "nav": "1.4715",
+        "cnav": "1.4715",
+        "rate_change": "0.09",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220531,
+        "nav": "1.4702",
+        "cnav": "1.4702",
+        "rate_change": "0.70",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220530,
+        "nav": "1.4600",
+        "cnav": "1.4600",
+        "rate_change": "0.68",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220527,
+        "nav": "1.4502",
+        "cnav": "1.4502",
+        "rate_change": "-0.23",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220526,
+        "nav": "1.4535",
+        "cnav": "1.4535",
+        "rate_change": "0.00",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220525,
+        "nav": "1.4535",
+        "cnav": "1.4535",
+        "rate_change": "0.11",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220524,
+        "nav": "1.4519",
+        "cnav": "1.4519",
+        "rate_change": "-1.33",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220523,
+        "nav": "1.4715",
+        "cnav": "1.4715",
+        "rate_change": "0.22",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220520,
+        "nav": "1.4682",
+        "cnav": "1.4682",
+        "rate_change": "0.23",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220519,
+        "nav": "1.4649",
+        "cnav": "1.4649",
+        "rate_change": "0.56",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220518,
+        "nav": "1.4568",
+        "cnav": "1.4568",
+        "rate_change": "0.00",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220517,
+        "nav": "1.4568",
+        "cnav": "1.4568",
+        "rate_change": "0.91",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220516,
+        "nav": "1.4437",
+        "cnav": "1.4437",
+        "rate_change": "-0.23",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220513,
+        "nav": "1.4470",
+        "cnav": "1.4470",
+        "rate_change": "0.11",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220512,
+        "nav": "1.4454",
+        "cnav": "1.4454",
+        "rate_change": "-0.33",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220511,
+        "nav": "1.4502",
+        "cnav": "1.4502",
+        "rate_change": "0.33",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220510,
+        "nav": "1.4454",
+        "cnav": "1.4454",
+        "rate_change": "0.23",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220509,
+        "nav": "1.4421",
+        "cnav": "1.4421",
+        "rate_change": "-0.34",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220506,
+        "nav": "1.4470",
+        "cnav": "1.4470",
+        "rate_change": "-1.34",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220505,
+        "nav": "1.4666",
+        "cnav": "1.4666",
+        "rate_change": "-0.44",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220429,
+        "nav": "1.4731",
+        "cnav": "1.4731",
+        "rate_change": "1.01",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220428,
+        "nav": "1.4584",
+        "cnav": "1.4584",
+        "rate_change": "-0.11",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220427,
+        "nav": "1.4600",
+        "cnav": "1.4600",
+        "rate_change": "0.56",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220426,
+        "nav": "1.4519",
+        "cnav": "1.4519",
+        "rate_change": "-0.22",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220425,
+        "nav": "1.4551",
+        "cnav": "1.4551",
+        "rate_change": "-0.89",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220422,
+        "nav": "1.4682",
+        "cnav": "1.4682",
+        "rate_change": "0.33",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220421,
+        "nav": "1.4633",
+        "cnav": "1.4633",
+        "rate_change": "-0.33",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220420,
+        "nav": "1.4682",
+        "cnav": "1.4682",
+        "rate_change": "-0.77",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220419,
+        "nav": "1.4796",
+        "cnav": "1.4796",
+        "rate_change": "-0.44",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220418,
+        "nav": "1.4861",
+        "cnav": "1.4861",
+        "rate_change": "0.00",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220415,
+        "nav": "1.4861",
+        "cnav": "1.4861",
+        "rate_change": "-0.44",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220414,
+        "nav": "1.4927",
+        "cnav": "1.4927",
+        "rate_change": "0.00",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220413,
+        "nav": "1.4927",
+        "cnav": "1.4927",
+        "rate_change": "-0.54",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220412,
+        "nav": "1.5008",
+        "cnav": "1.5008",
+        "rate_change": "-0.19",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220411,
+        "nav": "1.5036",
+        "cnav": "1.5036",
+        "rate_change": "-0.56",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
+        "date": 20220408,
+        "nav": "1.5120",
+        "cnav": "1.5120",
+        "rate_change": "0.00",
+        "status_subscription": "开放申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    }
+]
