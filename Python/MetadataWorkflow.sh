@@ -5,3 +5,5 @@ PATH=$PATH:/usr/local/bin
 #sleep $[$RANDOM%100]
 python3 MetadataWorkflow.py
 echo "MetadataWorkflow.py script finished！"
+python3 CNFundList.py
+echo "CNFundList.py script finished！"
