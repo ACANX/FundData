@@ -94,9 +94,10 @@ def main():
             funds_data.append(fund_data)
     # 生成Markdown内容
     markdown_content = f"# 基金列表\n\n"
-    markdown_content += f"最后更新时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n"
-    markdown_content += f"共包含基金数量: {len(funds_data)}\n\n"
+    markdown_content += "   \n\n"
     markdown_content += generate_markdown_table(funds_data)
+    markdown_content += f"- 最后更新时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n"
+    markdown_content += f"- 共包含基金数量: {len(funds_data)}\n\n"
     # 写入README文件
     try:
         with open(output_file, 'w', encoding='utf-8') as f:
