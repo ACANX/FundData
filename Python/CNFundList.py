@@ -60,7 +60,7 @@ def extract_fund_data(json_file):
 def generate_markdown_table(funds_data):
     """生成Markdown表格"""
     # 表格标题行
-    table = "| 基金代码 | 基金名称 | 基金类型 | 成立日期 | 基金公司 | 基金经理 |\n"
+    table = "| 基金代码 | 基金名称 |  基金公司 | 基金经理 | 基金类型 | 成立日期 |\n"
     table += "|----------|----------|----------|----------|----------|----------|\n"
     
     # 按基金代码排序
@@ -74,7 +74,7 @@ def generate_markdown_table(funds_data):
         # 创建带链接的基金经理
         manager_link = f"[{fund['manager_name']}]({fund['manager_link']})" if fund['manager_link'] != '#' else fund['manager_name']
         # 添加表格行
-        table += f"| {code_link} | {fund['name']} | {fund['fund_type']} | {fund['issue_date']} | {company_link} | {manager_link} |\n"
+        table += f"| {code_link} | {fund['name']} |{company_link} | {manager_link} | {fund['fund_type']} | {fund['issue_date']} | \n"
     return table
 
 def main():
