@@ -72,6 +72,9 @@ def parse_fund_data(html, fund_code):
         parse_investment_info(sections, result)
     else:
         logging.warning(f"基金 {fund_code} 投资信息部分未找到")
+
+    # 获取基金单位净值信息
+    parse_fund_nav_data(html, result)
     
     # 后处理：标准化字段名、格式化数据
     post_process_data(result)
@@ -173,16 +176,13 @@ def parse_investment_info(sections, result):
         "分红政策": "分红政策",
         "风险收益特征": "风险收益特征"
     }
-    
     for section in sections:
         title_tag = section.find('h4', class_='t')
         if not title_tag:
-            continue
-            
+            continue       
         title = title_tag.get_text().strip()
         if title not in section_map:
             continue
-            
         content_div = section.find('div', class_='boxitem')
         if content_div:
             # 清理多余空白和特殊字符
@@ -190,19 +190,50 @@ def parse_investment_info(sections, result):
             content = ' '.join(content.split())
             result[section_map[title]] = content
 
+def parse_fund_nav_data(html, result):
+    """
+    从基金信息HTML中解析单位净值、净值日期和当日涨跌幅
+    返回格式: { "nav": 净值, "nav_date": "月-日", "change_rate": 涨跌幅 }
+    若解析失败返回None
+    """
+    soup = BeautifulSoup(html, 'html.parser')
+    # 定位到净值信息所在的p标签
+    row = soup.select_one('.bs_jz .col-right .row.row1')
+    if not row:
+        return
+    # 提取净值日期（位于label文本中）
+    label_text = row.get_text(strip=True)
+    date_start = label_text.find('（') + 1
+    date_end = label_text.find('）')
+    nav_date = label_text[date_start:date_end] if date_start > 0 and date_end > date_start else None
+    # 提取净值数值和涨跌幅（位于b标签内）
+    b_tag = row.find('b')
+    if not b_tag:
+        return
+    b_text = b_tag.get_text(strip=True)
+    parts = b_text.split('(')
+    if len(parts) < 2:
+        return
+    # 解析净值数值
+    nav = parts[0].strip()
+    # 解析涨跌幅（移除百分号和括号）
+    change_str = parts[1].replace(')', '').replace('%', '').strip()
+    # 赋值
+    result[nav] = float(nav) if nav.replace('.', '', 1).isdigit() else None
+    result[nav_date] = nav_date
+    result[nav_change_rate] = float(change_str) if change_str.replace('.', '', 1).replace('-', '', 1).isdigit() else None
+
+
 def format_url(url):
     """格式化URL"""
     if not url:
-        return ""
-    
+        return ""    
     # 处理以//开头的URL
     if url.startswith("//"):
         return "https:" + url
-    
     # 处理相对URL
     if url.startswith("/"):
         return "https://fund.eastmoney.com" + url
-    
     return url
 
 def extract_date(date_str):
