@@ -89,9 +89,9 @@ def generate_markdown_table(funds_data):
         # 创建带链接的基金经理
         manager_link = generateManagerLinkText(fund['manager'])
         # 带链接的最新净值
-        name_link = f"[1.0000](https://fund.eastmoney.com/{fund['code']}.html)"
+        nav_link = f"[1.0000](https://fund.eastmoney.com/{fund['code']}.html)"
         # 添加表格行
-        table += f"| {code_link} | {name_link} |{company_link} | {manager_link} | {fund['fund_type']} | {fund['issue_date']} | {fund['assets_size']} | {fund['assets_size_date']} | \n"
+        table += f"| {code_link} | {name_link} |{company_link} | {manager_link} | {fund['fund_type']} | {fund['issue_date']} | {fund['assets_size']} | {fund['assets_size_date']} | {nav_link} |\n"
     return table
 
 def main():
