@@ -44,6 +44,8 @@ def extract_fund_data(json_file):
     manager = data.get('fund_manager', {})
     manager_name = manager.get('name', 'N/A')
     manager_link = manager.get('link', '#')
+    assets_size = data.get('assets_size', 'N/A')
+    assets_size_date = data.get('assets_size_date', 'N/A')
     
     return {
         'code': code,
@@ -54,14 +56,16 @@ def extract_fund_data(json_file):
         'company_name': company_name,
         'company_link': company_link,
         'manager_name': manager_name,
-        'manager_link': manager_link
+        'manager_link': manager_link,
+        'assets_size': assets_size,
+        'assets_size_date': assets_size_date
     }
 
 def generate_markdown_table(funds_data):
     """生成Markdown表格"""
     # 表格标题行
-    table = "| 基金代码 | 基金名称 |  基金公司 | 基金经理 | 基金类型 | 成立日期 |\n"
-    table += "|----------|----------|----------|----------|----------|----------|\n"
+    table = "| 基金代码 | 基金名称 |  基金公司 | 基金经理 | 基金类型 | 成立日期 | 资产规模 |\n"
+    table += "|----------|----------|----------|----------|----------|----------|----------|\n"
     
     # 按基金代码排序
     sorted_funds = sorted(funds_data, key=lambda x: x['code'])
@@ -74,7 +78,7 @@ def generate_markdown_table(funds_data):
         # 创建带链接的基金经理
         manager_link = f"[{fund['manager_name']}]({fund['manager_link']})" if fund['manager_link'] != '#' else fund['manager_name']
         # 添加表格行
-        table += f"| {code_link} | {fund['name']} |{company_link} | {manager_link} | {fund['fund_type']} | {fund['issue_date']} | \n"
+        table += f"| {code_link} | {fund['name']} |{company_link} | {manager_link} | {fund['fund_type']} | {fund['issue_date']} | {fund['assets_size']}亿元（截止至：{fund['assets_size_date']}） | \n"
     return table
 
 def main():
