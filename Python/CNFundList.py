@@ -82,12 +82,14 @@ def generate_markdown_table(funds_data):
     for fund in sorted_funds:
         # 创建带链接的基金代码
         code_link = f"[{fund['code']}]({fund['link']})" if fund['link'] != '#' else fund['code']
+        # 带链接的基金名称
+        name_link = f"[{fund['name']}](/Fund/Meta/CN/{fund['code']}.json)"
         # 创建带链接的基金公司
         company_link = f"[{fund['company_name']}]({fund['company_link']})" if fund['company_link'] != '#' else fund['company_name']
         # 创建带链接的基金经理
         manager_link = generateManagerLinkText(fund['manager'])
         # 添加表格行
-        table += f"| {code_link} | {fund['name']} |{company_link} | {manager_link} | {fund['fund_type']} | {fund['issue_date']} | {fund['assets_size']} | {fund['assets_size_date']} | \n"
+        table += f"| {code_link} | {name_link} |{company_link} | {manager_link} | {fund['fund_type']} | {fund['issue_date']} | {fund['assets_size']} | {fund['assets_size_date']} | \n"
     return table
 
 def main():
