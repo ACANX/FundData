@@ -38,12 +38,11 @@ def extract_fund_data(json_file):
     # 提取基金公司信息
     company = data.get('fund_company', {})
     company_name = company.get('name', 'N/A')
-    company_link = company.get('link', '#')
-    
+    company_link = company.get('link', '#')    
     # 提取基金经理信息
-    manager = data.get('fund_manager', {})
-    manager_name = manager.get('name', 'N/A')
-    manager_link = manager.get('link', '#')
+    manager = data.get('fund_manager', [])
+
+    # 资产规模信息
     assets_size = data.get('assets_size', 'N/A')
     assets_size_date = data.get('assets_size_date', 'N/A')
     
@@ -55,11 +54,21 @@ def extract_fund_data(json_file):
         'link': link,
         'company_name': company_name,
         'company_link': company_link,
-        'manager_name': manager_name,
-        'manager_link': manager_link,
+        'manager': manager,
         'assets_size': assets_size,
         'assets_size_date': assets_size_date
     }
+
+def generateManagerLinkText(arr):
+    text = ""
+    for manager in arr:
+        manager_name = manager.get('name', 'N/A')
+        manager_link = manager.get('link', '#')
+        text += f"[{manager_name}]({manager_link})、" if manager_link != '#' else manager_name
+    # 移除末尾多余的顿号
+    if text.endswith('、'):
+        text = text[:-1]  # 删除最后一个字符（顿号）
+    return text
 
 def generate_markdown_table(funds_data):
     """生成Markdown表格"""
@@ -76,7 +85,7 @@ def generate_markdown_table(funds_data):
         # 创建带链接的基金公司
         company_link = f"[{fund['company_name']}]({fund['company_link']})" if fund['company_link'] != '#' else fund['company_name']
         # 创建带链接的基金经理
-        manager_link = f"[{fund['manager_name']}]({fund['manager_link']})" if fund['manager_link'] != '#' else fund['manager_name']
+        manager_link = generateManagerLinkText(fund['manager'])
         # 添加表格行
         table += f"| {code_link} | {fund['name']} |{company_link} | {manager_link} | {fund['fund_type']} | {fund['issue_date']} | {fund['assets_size']} | {fund['assets_size_date']} | \n"
     return table
