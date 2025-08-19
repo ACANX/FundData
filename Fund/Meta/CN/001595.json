@@ -13,10 +13,12 @@
     "name": "招商证券",
     "link": "https://fund.eastmoney.com/bank/80000012.html"
   },
-  "fund_manager": {
-    "name": "陈瑶",
-    "link": "https://fund.eastmoney.com/manager/30570026.html"
-  },
+  "fund_manager": [
+    {
+      "name": "陈瑶",
+      "link": "https://fund.eastmoney.com/manager/30570026.html"
+    }
+  ],
   "dividend_per_share": 0.0,
   "dividend_times": 0,
   "management_fee_rate": "0.50",

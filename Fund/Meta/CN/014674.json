@@ -13,10 +13,16 @@
     "name": "中国银行",
     "link": "https://fund.eastmoney.com/bank/80001122.html"
   },
-  "fund_manager": {
-    "name": "蔡卡尔",
-    "link": "https://fund.eastmoney.com/manager/30516945.html"
-  },
+  "fund_manager": [
+    {
+      "name": "蔡卡尔",
+      "link": "https://fund.eastmoney.com/manager/30516945.html"
+    },
+    {
+      "name": "田希蒙",
+      "link": "https://fund.eastmoney.com/manager/30788191.html"
+    }
+  ],
   "dividend_per_share": 0.0,
   "dividend_times": 0,
   "management_fee_rate": "0.50",

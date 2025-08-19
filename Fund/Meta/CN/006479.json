@@ -13,10 +13,12 @@
     "name": "中国银行",
     "link": "https://fund.eastmoney.com/bank/80001122.html"
   },
-  "fund_manager": {
-    "name": "刘杰",
-    "link": "https://fund.eastmoney.com/manager/30283311.html"
-  },
+  "fund_manager": [
+    {
+      "name": "刘杰",
+      "link": "https://fund.eastmoney.com/manager/30283311.html"
+    }
+  ],
   "dividend_per_share": 0.0,
   "dividend_times": 0,
   "management_fee_rate": "0.80",

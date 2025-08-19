@@ -13,10 +13,16 @@
     "name": "中国银行",
     "link": "https://fund.eastmoney.com/bank/80001122.html"
   },
-  "fund_manager": {
-    "name": "林伟斌",
-    "link": "https://fund.eastmoney.com/manager/30198126.html"
-  },
+  "fund_manager": [
+    {
+      "name": "林伟斌",
+      "link": "https://fund.eastmoney.com/manager/30198126.html"
+    },
+    {
+      "name": "宋钊贤",
+      "link": "https://fund.eastmoney.com/manager/30712250.html"
+    }
+  ],
   "dividend_per_share": 0.2,
   "dividend_times": 4,
   "management_fee_rate": "0.15",

@@ -13,10 +13,12 @@
     "name": "招商银行",
     "link": "https://fund.eastmoney.com/bank/10000020.html"
   },
-  "fund_manager": {
-    "name": "陆建巍",
-    "link": "https://fund.eastmoney.com/manager/30141297.html"
-  },
+  "fund_manager": [
+    {
+      "name": "陆建巍",
+      "link": "https://fund.eastmoney.com/manager/30141297.html"
+    }
+  ],
   "dividend_per_share": 0.0,
   "dividend_times": 0,
   "management_fee_rate": "1.20",

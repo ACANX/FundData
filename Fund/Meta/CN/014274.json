@@ -13,10 +13,16 @@
     "name": "华夏银行",
     "link": "https://fund.eastmoney.com/bank/10001303.html"
   },
-  "fund_manager": {
-    "name": "吴远怡",
-    "link": "https://fund.eastmoney.com/manager/30714349.html"
-  },
+  "fund_manager": [
+    {
+      "name": "吴远怡",
+      "link": "https://fund.eastmoney.com/manager/30714349.html"
+    },
+    {
+      "name": "叶帅",
+      "link": "https://fund.eastmoney.com/manager/30744272.html"
+    }
+  ],
   "dividend_per_share": 0.0,
   "dividend_times": 0,
   "management_fee_rate": "1.20",

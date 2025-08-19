@@ -13,10 +13,12 @@
     "name": "工商银行",
     "link": "https://fund.eastmoney.com/bank/80001067.html"
   },
-  "fund_manager": {
-    "name": "郑希",
-    "link": "https://fund.eastmoney.com/manager/30189730.html"
-  },
+  "fund_manager": [
+    {
+      "name": "郑希",
+      "link": "https://fund.eastmoney.com/manager/30189730.html"
+    }
+  ],
   "dividend_per_share": 0.02,
   "dividend_times": 1,
   "management_fee_rate": "1.20",

@@ -13,10 +13,12 @@
     "name": "国泰海通",
     "link": "https://fund.eastmoney.com/bank/80000123.html"
   },
-  "fund_manager": {
-    "name": "谭弘翔",
-    "link": "https://fund.eastmoney.com/manager/30726462.html"
-  },
+  "fund_manager": [
+    {
+      "name": "谭弘翔",
+      "link": "https://fund.eastmoney.com/manager/30726462.html"
+    }
+  ],
   "dividend_per_share": 0.0,
   "dividend_times": 0,
   "management_fee_rate": "0.15",

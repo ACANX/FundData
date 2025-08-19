@@ -13,10 +13,16 @@
     "name": "建设银行",
     "link": "https://fund.eastmoney.com/bank/80001068.html"
   },
-  "fund_manager": {
-    "name": "孔宪政",
-    "link": "https://fund.eastmoney.com/manager/30672631.html"
-  },
+  "fund_manager": [
+    {
+      "name": "孔宪政",
+      "link": "https://fund.eastmoney.com/manager/30672631.html"
+    },
+    {
+      "name": "王海畅",
+      "link": "https://fund.eastmoney.com/manager/30774512.html"
+    }
+  ],
   "dividend_per_share": 0.0,
   "dividend_times": 0,
   "management_fee_rate": "1.20",

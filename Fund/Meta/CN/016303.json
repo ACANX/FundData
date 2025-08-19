@@ -13,10 +13,12 @@
     "name": "中国银行",
     "link": "https://fund.eastmoney.com/bank/80001122.html"
   },
-  "fund_manager": {
-    "name": "冷文鹏",
-    "link": "https://fund.eastmoney.com/manager/30467898.html"
-  },
+  "fund_manager": [
+    {
+      "name": "冷文鹏",
+      "link": "https://fund.eastmoney.com/manager/30467898.html"
+    }
+  ],
   "dividend_per_share": 0.0,
   "dividend_times": 0,
   "management_fee_rate": "1.20",
