@@ -374,6 +374,7 @@ def post_process_data(data):
     desired_order = [
         "code", "name", "fund_name", "fund_type", "issue_date", "link",
         "establish_date", "fund_company", "fund_custodian", "fund_manager",
+        "nav", "nav_date", "nav_change_rate",
         "dividend_per_share", "dividend_times", "management_fee_rate",
         "custodian_fee_rate", "service_fee_rate", "max_subscription_fee_rate",
         "max_purchase_fee_rate", "max_redemption_fee_rate", "assets_size",
