@@ -1,7 +1,7 @@
 import os
 import json
 import glob
-from datetime import datetime
+from datetime import datetime, timedelta
 
 # 配置路径
 current_dir = os.path.dirname(os.path.abspath(__file__))
@@ -44,7 +44,7 @@ def extract_fund_data(json_file):
 
     nav = data.get('nav', 'N/A')
     nav_date = data.get('nav_date', 'N/A')
-    nage_change_rate = data.get('nage_change_rate', 'N/A')
+    nav_change_rate = data.get('nav_change_rate', 'N/A')
 
     # 资产规模信息
     assets_size = data.get('assets_size', 'N/A')
@@ -61,7 +61,7 @@ def extract_fund_data(json_file):
         'manager': manager,
         'nav': nav,
         'nav_date': nav_date,
-        'nage_change_rate': nage_change_rate,
+        'nav_change_rate': nav_change_rate,
         'assets_size': assets_size,
         'assets_size_date': assets_size_date
     }
@@ -80,13 +80,21 @@ def generateManagerLinkText(arr):
 def generate_markdown_table(funds_data):
     """生成Markdown表格"""
     # 表格标题行
-    table = "| 基金代码 | 基金名称 |  基金公司 | 基金经理 | 基金类型 | 成立日期 | 资产规模(亿元) |报告日期| 最新净值|\n"
-    table += "|----------|----------|----------|----------|----------|----------|----------|----------|----------|\n"
-    
+    table = "| 基金排行 | 基金代码 | 基金名称 |  基金公司 | 基金经理 | 基金类型 | 成立日期 | 资产规模(亿元) |报告日期| 最新净值|\n"
+    table += "|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|\n"
+
+
+    # 获取当前日期
+    today = datetime.now()
+    oneYearAgo = today - timedelta(days=365)
+    # 获取一年前的今天
+    qsdDate = today.strftime("%Y%m%d")  # 格式化为 yyyyMMdd
+    qedDate = oneYearAgo.strftime("%Y%m%d")  # 格式化为 yyyyMMdd
     # 按基金代码排序
     sorted_funds = sorted(funds_data, key=lambda x: x['code'])
-    
-    for fund in sorted_funds:
+    for index, fund in enumerate(sorted_funds, start=1):
+        # 基金排行
+        rank_link = f"[{index}](https://fund.eastmoney.com/data/fundranking.html#tall;c0;r;s1nzf;pn50;ddesc;qsd{qsdDate};qed{qedDate};qdii;zq;gg;gzbd;gzfs;bbzt;sfbb)"
         # 创建带链接的基金代码
         code_link = f"[{fund['code']}]({fund['link']})" if fund['link'] != '#' else fund['code']
         # 带链接的基金名称
@@ -98,7 +106,7 @@ def generate_markdown_table(funds_data):
         # 带链接的最新净值
         nav_link = f"[{fund['nav']}({fund['nav_change_rate']}%)](https://fund.eastmoney.com/{fund['code']}.html)"
         # 添加表格行
-        table += f"| {code_link} | {name_link} |{company_link} | {manager_link} | {fund['fund_type']} | {fund['issue_date']} | {fund['assets_size']} | {fund['assets_size_date']} | {nav_link} |\n"
+        table += f"| {rank_link} | {code_link} | {name_link} |{company_link} | {manager_link} | {fund['fund_type']} | {fund['issue_date']} | {fund['assets_size']} | {fund['assets_size_date']} | {nav_link} |\n"
     return table
 
 def main():
