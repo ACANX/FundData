@@ -42,6 +42,10 @@ def extract_fund_data(json_file):
     # 提取基金经理信息
     manager = data.get('fund_manager', [])
 
+    nav = data.get('nav', 'N/A')
+    nav_date = data.get('nav_date', 'N/A')
+    nage_change_rate = data.get('nage_change_rate', 'N/A')
+
     # 资产规模信息
     assets_size = data.get('assets_size', 'N/A')
     assets_size_date = data.get('assets_size_date', 'N/A')
@@ -55,6 +59,9 @@ def extract_fund_data(json_file):
         'company_name': company_name,
         'company_link': company_link,
         'manager': manager,
+        'nav': nav,
+        'nav_date': nav_date,
+        'nage_change_rate': nage_change_rate,
         'assets_size': assets_size,
         'assets_size_date': assets_size_date
     }
@@ -89,7 +96,7 @@ def generate_markdown_table(funds_data):
         # 创建带链接的基金经理
         manager_link = generateManagerLinkText(fund['manager'])
         # 带链接的最新净值
-        nav_link = f"[1.0000](https://fund.eastmoney.com/{fund['code']}.html)"
+        nav_link = f"[{fund['nav']}({fund['nage_change_rate']}%)](https://fund.eastmoney.com/{fund['code']}.html)"
         # 添加表格行
         table += f"| {code_link} | {name_link} |{company_link} | {manager_link} | {fund['fund_type']} | {fund['issue_date']} | {fund['assets_size']} | {fund['assets_size_date']} | {nav_link} |\n"
     return table
