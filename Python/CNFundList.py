@@ -78,7 +78,7 @@ def generate_markdown_table(funds_data):
         # 创建带链接的基金经理
         manager_link = f"[{fund['manager_name']}]({fund['manager_link']})" if fund['manager_link'] != '#' else fund['manager_name']
         # 添加表格行
-        table += f"| {code_link} | {fund['name']} |{company_link} | {manager_link} | {fund['fund_type']} | {fund['issue_date']} | {fund['assets_size']}亿元（截止至：{fund['assets_size_date']}） | \n"
+        table += f"| {code_link} | {fund['name']} |{company_link} | {manager_link} | {fund['fund_type']} | {fund['issue_date']} | {fund['assets_size']}亿元（{fund['assets_size_date']}） | \n"
     return table
 
 def main():
