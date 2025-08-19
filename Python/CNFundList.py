@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 # 配置路径
 current_dir = os.path.dirname(os.path.abspath(__file__))
 meta_dir = os.path.join(current_dir, '../Fund/Meta/CN/')
-output_file = os.path.join(current_dir, '../Fund/README.md')
+output_file = os.path.join(current_dir, '../Fund/Meta/README_CN.md')
 
 def extract_fund_data(json_file):
     """从JSON文件中提取基金数据"""
