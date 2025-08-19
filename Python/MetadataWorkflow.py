@@ -219,9 +219,9 @@ def parse_fund_nav_data(html, result):
     # 解析涨跌幅（移除百分号和括号）
     change_str = parts[1].replace(')', '').replace('%', '').strip()
     # 赋值
-    result[nav] = float(nav) if nav.replace('.', '', 1).isdigit() else None
-    result[nav_date] = nav_date
-    result[nav_change_rate] = float(change_str) if change_str.replace('.', '', 1).replace('-', '', 1).isdigit() else None
+    result['nav'] = float(nav) if nav.replace('.', '', 1).isdigit() else None
+    result['nav_date'] = nav_date
+    result['nav_change_rate'] = float(change_str) if change_str.replace('.', '', 1).replace('-', '', 1).isdigit() else None
 
 
 def format_url(url):
