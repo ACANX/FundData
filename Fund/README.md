@@ -31,7 +31,7 @@
 | [161116](https://fundf10.eastmoney.com/jbgk_161116.html) | [易方达黄金主题人民币A](/Fund/Meta/CN/161116.json) |[易方达基金](https://fund.eastmoney.com/company/80000229.html) | [殷春涛](https://fund.eastmoney.com/manager/30836892.html) | QDII-商品 | 20110401 | 9.24 | 20250630 | [1.0000](https://fund.eastmoney.com/161116.html) |
 | [164701](https://fundf10.eastmoney.com/jbgk_164701.html) | [汇添富黄金及贵金属(QDII-LOF-FOF)A](/Fund/Meta/CN/164701.json) |[汇添富基金](https://fund.eastmoney.com/company/80053708.html) | [过蓓蓓](https://fund.eastmoney.com/manager/30362194.html) | QDII-商品 | 20110725 | 4.09 | 20250630 | [1.0000](https://fund.eastmoney.com/164701.html) |
 | [270042](https://fundf10.eastmoney.com/jbgk_270042.html) | [广发纳斯达克100ETF联接人民币(QDII)A](/Fund/Meta/CN/270042.json) |[广发基金](https://fund.eastmoney.com/company/80000248.html) | [刘杰](https://fund.eastmoney.com/manager/30283311.html) | 指数型-海外股票 | 20120709 | 93.14 | 20250630 | [1.0000](https://fund.eastmoney.com/270042.html) |
-- 最后更新时间: 2025-08-19 10:28:02
+- 最后更新时间: 2025-08-19 10:31:22
 
 - 共包含基金数量: 27
 
