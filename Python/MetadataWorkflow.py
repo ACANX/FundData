@@ -136,15 +136,24 @@ def process_key_value(key, value_cell, result):
             result["基金托管人"] = {"name": text_value, "link": ""}
     
     # 处理基金经理人（经理信息）
+    # 处理基金经理人（支持多个经理）
     elif key == "基金经理人":
-        a_tag = value_cell.find('a')
-        if a_tag:
-            result["基金经理人"] = {
-                "name": a_tag.get_text().strip(),
-                "link": format_url(a_tag.get('href', ''))
-            }
+        manager_list = []
+        a_tags = value_cell.find_all('a')
+        if a_tags:
+            # 遍历所有<a>标签获取每个经理信息
+            for a_tag in a_tags:
+                manager_list.append({
+                    "name": a_tag.get_text().strip(),
+                    "link": format_url(a_tag.get('href', ''))
+                })
         else:
-            result["基金经理人"] = {"name": text_value, "link": ""}
+            # 没有<a>标签时尝试按分隔符拆分
+            names = [name.strip() for name in text_value.split('、') if name.strip()]
+            for name in names:
+                manager_list.append({"name": name, "link": ""})
+        result["基金经理人"] = manager_list
+    
     
     # 处理其他标准字段
     elif key in ["基金简称", "基金全称", "基金类型", 
