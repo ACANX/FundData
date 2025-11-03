@@ -23,9 +23,9 @@
       "link": "https://fund.eastmoney.com/manager/30774512.html"
     }
   ],
-  "nav": 3.248,
-  "nav_date": "10-24",
-  "nav_change_rate": 0.46,
+  "nav": 3.257,
+  "nav_date": "10-31",
+  "nav_change_rate": 1.56,
   "dividend_per_share": 0.0,
   "dividend_times": 0,
   "management_fee_rate": "1.20",
@@ -34,8 +34,8 @@
   "max_subscription_fee_rate": "---（前端）",
   "max_purchase_fee_rate": "0.00",
   "max_redemption_fee_rate": "1.50",
-  "assets_size": "10.92",
-  "assets_size_date": 20250630,
+  "assets_size": "15.34",
+  "assets_size_date": 20250930,
   "benchmark": "沪深300指数*75%+上证国债指数*25%",
   "tracking_target": "该基金无跟踪标的",
   "investment_objective": "投资目标 本基金主要通过数量化手段优化投资策略,在控制风险的前提下,力争实现基金资产的长期稳定增值。",

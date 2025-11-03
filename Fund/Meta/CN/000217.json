@@ -1,6 +1,6 @@
 {
   "code": "000217",
-  "name": "华安黄金易ETF联接C",
+  "name": "华安黄金ETF联接C",
   "fund_name": "华安易富黄金交易型开放式证券投资基金联接基金",
   "fund_type": "指数型-其他",
   "issue_date": 20130724,
@@ -19,9 +19,9 @@
       "link": "https://fund.eastmoney.com/manager/30044485.html"
     }
   ],
-  "nav": 3.1747,
-  "nav_date": "10-24",
-  "nav_change_rate": -0.5,
+  "nav": 3.1249,
+  "nav_date": "10-31",
+  "nav_change_rate": 1.56,
   "dividend_per_share": 0.0,
   "dividend_times": 0,
   "management_fee_rate": "0.50",
@@ -30,8 +30,8 @@
   "max_subscription_fee_rate": "0.00",
   "max_purchase_fee_rate": "0.00",
   "max_redemption_fee_rate": "1.50",
-  "assets_size": "197.03",
-  "assets_size_date": 20250630,
+  "assets_size": "183.16",
+  "assets_size_date": 20250930,
   "benchmark": "国内黄金现货价格收益率*95%+人民币活期存款税后利率*5%",
   "tracking_target": "黄金9999",
   "investment_objective": "投资目标 本基金主要通过对目标ETF基金份额的投资,紧密跟踪中国黄金现货价格的表现。",

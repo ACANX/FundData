@@ -23,9 +23,9 @@
       "link": "https://fund.eastmoney.com/manager/30788191.html"
     }
   ],
-  "nav": 1.0746,
-  "nav_date": "10-24",
-  "nav_change_rate": 1.02,
+  "nav": 1.0576,
+  "nav_date": "10-31",
+  "nav_change_rate": -1.69,
   "dividend_per_share": 0.0,
   "dividend_times": 0,
   "management_fee_rate": "0.50",
@@ -34,8 +34,8 @@
   "max_subscription_fee_rate": "0.00",
   "max_purchase_fee_rate": "0.00",
   "max_redemption_fee_rate": "1.50",
-  "assets_size": "32.96",
-  "assets_size_date": 20250630,
+  "assets_size": "78.38",
+  "assets_size_date": 20250930,
   "benchmark": "中证港股通互联网指数收益率*95%+银行活期存款利率(税后)*5%",
   "tracking_target": "中证港股通互联网指数",
   "investment_objective": "投资目标 本基金通过投资于目标ETF,紧密跟踪标的指数,追求与业绩比较基准相似的回报。",

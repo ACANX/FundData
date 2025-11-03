@@ -23,9 +23,9 @@
       "link": "https://fund.eastmoney.com/manager/30837206.html"
     }
   ],
-  "nav": 1.7275,
-  "nav_date": "10-24",
-  "nav_change_rate": 1.36,
+  "nav": 1.8337,
+  "nav_date": "10-31",
+  "nav_change_rate": 1.11,
   "dividend_per_share": 0.01,
   "dividend_times": 1,
   "management_fee_rate": "1.20",
@@ -34,8 +34,8 @@
   "max_subscription_fee_rate": "0.00",
   "max_purchase_fee_rate": "0.00",
   "max_redemption_fee_rate": "1.50",
-  "assets_size": "1.23",
-  "assets_size_date": 20250630,
+  "assets_size": "1.41",
+  "assets_size_date": 20250930,
   "benchmark": "北证50成份指数收益率*80%+中证港股通综合指数收益率*5%+中债总指数收益率*15%",
   "tracking_target": "该基金无跟踪标的",
   "investment_objective": "投资目标 本基金在控制风险的前提下,追求基金资产的长期增值。",
