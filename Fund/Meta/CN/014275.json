@@ -15,17 +15,13 @@
   },
   "fund_manager": [
     {
-      "name": "郑希",
-      "link": "https://fund.eastmoney.com/manager/30189730.html"
-    },
-    {
       "name": "邱天蓝",
       "link": "https://fund.eastmoney.com/manager/30837206.html"
     }
   ],
-  "nav": 1.6478,
-  "nav_date": "12-05",
-  "nav_change_rate": 0.98,
+  "nav": 1.6745,
+  "nav_date": "12-12",
+  "nav_change_rate": 0.44,
   "dividend_per_share": 0.02,
   "dividend_times": 1,
   "management_fee_rate": "1.20",
