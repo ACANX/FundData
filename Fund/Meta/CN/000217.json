@@ -19,9 +19,9 @@
       "link": "https://fund.eastmoney.com/manager/30044485.html"
     }
   ],
-  "nav": 3.266,
-  "nav_date": "12-12",
-  "nav_change_rate": 1.19,
+  "nav": 3.3036,
+  "nav_date": "12-19",
+  "nav_change_rate": -0.01,
   "dividend_per_share": 0.0,
   "dividend_times": 0,
   "management_fee_rate": "0.50",
@@ -30,8 +30,6 @@
   "max_subscription_fee_rate": "0.00",
   "max_purchase_fee_rate": "0.00",
   "max_redemption_fee_rate": "1.50",
-  "assets_size": "183.16",
-  "assets_size_date": 20250930,
   "benchmark": "国内黄金现货价格收益率*95%+人民币活期存款税后利率*5%",
   "tracking_target": "黄金9999",
   "investment_objective": "投资目标 本基金主要通过对目标ETF基金份额的投资,紧密跟踪中国黄金现货价格的表现。",

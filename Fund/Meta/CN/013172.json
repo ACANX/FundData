@@ -19,9 +19,9 @@
       "link": "https://fund.eastmoney.com/manager/30106590.html"
     }
   ],
-  "nav": 0.827,
-  "nav_date": "12-12",
-  "nav_change_rate": 1.91,
+  "nav": 0.8034,
+  "nav_date": "12-19",
+  "nav_change_rate": 1.04,
   "dividend_per_share": 0.0,
   "dividend_times": 0,
   "management_fee_rate": "0.50",
@@ -30,8 +30,6 @@
   "max_subscription_fee_rate": "0.00",
   "max_purchase_fee_rate": "0.00",
   "max_redemption_fee_rate": "1.50",
-  "assets_size": "25.72",
-  "assets_size_date": 20250930,
   "benchmark": "经人民币汇率调整的恒生互联网科技业指数收益率*95%+人民币活期存款税后利率*5%",
   "tracking_target": "恒生互联网科技业指数",
   "investment_objective": "投资目标 通过对目标ETF的投资,追求跟踪标的指数,获得与指数收益相似的回报。本基金力争日均跟踪偏离度的绝对值不超过0.35%,年跟踪误差不超过4%。",

@@ -19,9 +19,9 @@
       "link": "https://fund.eastmoney.com/manager/30589069.html"
     }
   ],
-  "nav": 1.4566,
-  "nav_date": "12-12",
-  "nav_change_rate": 0.54,
+  "nav": 1.4546,
+  "nav_date": "12-19",
+  "nav_change_rate": 0.93,
   "dividend_per_share": 0.0,
   "dividend_times": 0,
   "management_fee_rate": "0.50",
@@ -30,8 +30,6 @@
   "max_subscription_fee_rate": "0.00",
   "max_purchase_fee_rate": "0.00",
   "max_redemption_fee_rate": "1.50",
-  "assets_size": "4.09",
-  "assets_size_date": 20250930,
   "benchmark": "北证50成份指数收益率*95%+活期存款利率(税后)*5%",
   "tracking_target": "北证50成份指数",
   "investment_objective": "投资目标 紧密跟踪业绩比较基准,追求跟踪偏离度和跟踪误差的最小化。",

@@ -19,9 +19,9 @@
       "link": "https://fund.eastmoney.com/manager/30467898.html"
     }
   ],
-  "nav": 2.6226,
-  "nav_date": "12-12",
-  "nav_change_rate": 1.66,
+  "nav": 2.6532,
+  "nav_date": "12-19",
+  "nav_change_rate": 1.67,
   "dividend_per_share": 0.0,
   "dividend_times": 0,
   "management_fee_rate": "1.20",
@@ -30,8 +30,6 @@
   "max_subscription_fee_rate": "0.00",
   "max_purchase_fee_rate": "0.00",
   "max_redemption_fee_rate": "1.50",
-  "assets_size": "0.42",
-  "assets_size_date": 20250930,
   "benchmark": "北证50成份指数收益率*75%+中债综合财富(总值)指数收益率*20%+恒生指数收益率(使用估值汇率折算)*5%",
   "tracking_target": "该基金无跟踪标的",
   "investment_objective": "投资目标 本基金主要投资于在北京证券交易所上市的企业,在严格控制投资组合风险和保持资产流动性的前提下,灵活运用多种投资策略,力争为基金份额持有人获取超越业绩比较基准的投资回报。",
