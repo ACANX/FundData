@@ -15,17 +15,17 @@
   },
   "fund_manager": [
     {
-      "name": "吴远怡",
-      "link": "https://fund.eastmoney.com/manager/30714349.html"
-    },
-    {
       "name": "叶帅",
       "link": "https://fund.eastmoney.com/manager/30744272.html"
+    },
+    {
+      "name": "曾质彬",
+      "link": "https://fund.eastmoney.com/manager/30843198.html"
     }
   ],
-  "nav": 1.7216,
-  "nav_date": "12-19",
-  "nav_change_rate": 0.99,
+  "nav": 1.729,
+  "nav_date": "12-26",
+  "nav_change_rate": 0.49,
   "dividend_per_share": 0.0,
   "dividend_times": 0,
   "management_fee_rate": "1.20",
