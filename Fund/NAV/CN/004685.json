@@ -1,5 +1,14 @@
 [
     {
+        "date": 20260109,
+        "nav": "6.8156",
+        "cnav": "6.8156",
+        "rate_change": "0.53",
+        "status_subscription": "暂停申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": ""
+    },
+    {
         "date": 20260108,
         "nav": "6.7800",
         "cnav": "6.7800",
