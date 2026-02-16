@@ -15,17 +15,13 @@
   },
   "fund_manager": [
     {
-      "name": "胡洁",
-      "link": "https://fund.eastmoney.com/manager/30191326.html"
-    },
-    {
       "name": "丰晨成",
       "link": "https://fund.eastmoney.com/manager/30389782.html"
     }
   ],
-  "nav": 1.5443,
-  "nav_date": "02-06",
-  "nav_change_rate": -0.27,
+  "nav": 1.5255,
+  "nav_date": "02-13",
+  "nav_change_rate": -0.66,
   "dividend_per_share": 0.0,
   "dividend_times": 0,
   "management_fee_rate": "0.50",
