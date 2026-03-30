@@ -23,13 +23,13 @@
       "link": "https://fund.eastmoney.com/manager/30788191.html"
     }
   ],
-  "nav": 0.7953,
-  "nav_date": "03-20",
-  "nav_change_rate": -3.56,
+  "nav": 0.7856,
+  "nav_date": "03-27",
+  "nav_change_rate": 0.28,
   "dividend_per_share": 0.0,
   "dividend_times": 0,
-  "management_fee_rate": "0.50",
-  "custodian_fee_rate": "0.10",
+  "management_fee_rate": "0.15",
+  "custodian_fee_rate": "0.05",
   "service_fee_rate": "0.20",
   "max_subscription_fee_rate": "0.00",
   "max_purchase_fee_rate": "0.00",
