@@ -1,5 +1,14 @@
 [
     {
+        "date": 20261020,
+        "nav": "1.2270",
+        "cnav": "1.5340",
+        "rate_change": "-1.09",
+        "status_subscription": "限制大额申购",
+        "status_redemption": "开放赎回",
+        "dividend_distribution": "每10份派现金0.5500元"
+    },
+    {
         "date": 20261019,
         "nav": "1.2961",
         "cnav": "1.5481",
